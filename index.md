@@ -5,6 +5,7 @@
 - [Potato Omelette](./recipes/potatoOmelette/)
 
 # Side dishes
+- [Oven-roasted Potatoes](./recipes/roastedPotatoes/)
 - [Baguette](./recipes/baguette/)
 
 # Drinks
