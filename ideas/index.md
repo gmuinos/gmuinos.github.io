@@ -11,3 +11,32 @@
 - modernhoney.com/chinese-orange-chicken
 - Jasmine clove lime
 - Schnitzel
+
+
+List from Overleaf:
+    \item Zarrangollo
+    \item Lemon Butter Chicken
+    \item Pizza
+    \item Frittata
+    \item Paella
+    \item Espresso Tonic
+    \item Chicken Soup
+    \item Chicken Katsu
+    \item Churros de Pescado
+    \item Nasi Goreng
+    \item Tortilla de Papas
+    \item Mojo Rojo
+    \item Mojo Verde
+    \item Papas Arrugadas
+    \item Crunchy Roasted Potatoes
+    \item The Bee's Knees
+    \item Black Velvet
+    \item Crunchy Cesar Salad
+    \item Pearl Couscous Fish
+    \item Rosquetes
+    \item Lemon Butter
+    \item Chocolate Cake
+    \item Mussels
+    \item Glühwein
+    \item Panuozzo 
+    \item Potaje de verduras, de lentejas, rancho, bisté, arroz,...
