@@ -2,4 +2,5 @@
 - [Brasato al Barolo](./recipes/brasato/)
 - [Lasagna](./recipes/lasagna/)
 - [Baguette](./recipes/baguette/)
+- [Potato Omelette](./recipes/potatoOmelette/)
 - [Ideas](./recipes/ideas/)
