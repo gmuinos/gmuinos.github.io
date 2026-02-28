@@ -24,6 +24,8 @@ More dishes:
 - Panuozzo 
 - Potaje de verduras, de lentejas, rancho, arroz,...
 
+Candeal flour
+
 \subsection{The Bee's Knees}
 \paragraph{Ingredient list}
     \begin{itemize}
