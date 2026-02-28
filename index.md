@@ -7,5 +7,5 @@
 # Side dishes
 - [Baguette](./recipes/baguette/)
 
-# [Ideas](./recipes/ideas/)
-- [Ideas](./recipes/ideas/)
+# [Ideas I want to remember](./recipes/ideas/)
+
