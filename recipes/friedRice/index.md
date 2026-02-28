@@ -48,7 +48,7 @@ Make a *simple* version of **Hainanese** rice with
 
 ### The Cooking
 - Wok on high heat
-- PUt high heat oil in the wok
+- Add high heat oil in the wok
 - In order, add:
   1. Shallot
   2. Garlic
