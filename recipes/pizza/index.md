@@ -4,17 +4,16 @@
 
 ### Dough ingredients
 For two pizzas of 250 grams each at 75% hydration:
-
 |Ingredient|Amount|
-|-|:-:|
+|---|:---:|
 |Water|207 gr|
 |Oil|8.3 gr|
 |Salt|5.5 gr|
 |Sugar|3 gr|
-|Dry yeast||
+|Dry yeast|-|
 |Flour|276 gr|
 
-It is useful to have semolina as well for the cooking.
+It is useful to have semolina as well for kneading.
 
 ### Sauce ingredients
 - Canned San Marzano tomatoes
