@@ -1,1 +1,37 @@
-
+  Preferment:
+    - 222g all-purpose flour
+    - 222g cold water
+    - 1/4 spoon of yeast
+  Dough:
+    - 319g warm water
+    - 519g all-purpose flour
+    - 15g salt
+    - 1/2 teaspoon of yeast
+ 
+ ## Day before
+  - Combine the flour, yeast, and water.
+  - Cover and let it rest overnight at room temperature, 12 to 16 hours. 
+  ## Baking day
+  - Add the water to the preferment and mix.
+  - Add the flour, salt, and yeast, mixing well until no dry spots remain.
+  - Rest for 20 minutes.
+  - Do bowl folds.
+  - Rest for 20 minutes.
+  - Do bowl folds.
+  - Rest for 20 minutes.
+  - Do coil folds.
+  - Rest for around one hour.
+  - Lightly dust a surface. Take dough from bowl. Divide into two pieces
+  - Do a round preshape (similar to a bowl fold)
+  - Rest for 15 minutes
+  - Dust a piece of fabric.
+  - Shape like two bâtard.
+  - Place the doughs on the fabric seam-side up.
+  - Rest for one hour covered
+  - Preheat the oven at 250°
+  - Invert the loaves side by side onto a sheet of parchment.
+  - Score the tops of the loaves.
+  - Load the loaves (still on the parchment) into the oven.
+  
+    -- It is crucial to plan the water in the oven in advance.
+  - Bake the loaves for 32 to 38 minutes, until the crust is firm and medium golden brown.
