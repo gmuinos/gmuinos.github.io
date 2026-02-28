@@ -3,11 +3,14 @@
 This dish is based the recepie of Elizabeth Haigh.
 
 ## Ingredients
+For the rice:
 - Chicken stock
 - Garlic
 - Pandan leaves
 - Ginger
 - Chicken fat
+
+For the dish
 - Garlic
 - Shallot
 - Spring onions
@@ -59,5 +62,3 @@ Make a *simple* version of **Hainanese** rice with
   5. Spring onion
   6. Sesame oil
 - Plate
-    \item Plate
-\end{enumerate}
