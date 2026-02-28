@@ -1,7 +1,9 @@
-  Preferment:
-    - 222g all-purpose flour
-    - 222g cold water
-    - 1/4 spoon of yeast
+  Preferment:\
+  - 222g all-purpose flour
+  - 222g cold water
+  -
+  - 1/4 spoon of yeast
+    
   Dough:
     - 319g warm water
     - 519g all-purpose flour
@@ -10,7 +12,8 @@
  
  ## Day before
   - Combine the flour, yeast, and water.
-  - Cover and let it rest overnight at room temperature, 12 to 16 hours. 
+  - Cover and let it rest overnight at room temperature, 12 to 16 hours.
+
   ## Baking day
   - Add the water to the preferment and mix.
   - Add the flour, salt, and yeast, mixing well until no dry spots remain.
