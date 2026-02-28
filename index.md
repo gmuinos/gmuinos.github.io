@@ -1,2 +1,3 @@
 - [Baguette](./baguette/)
 - [Ideas](./ideas/)
+- [Fried Rice](./friedRice/)
