@@ -13,7 +13,7 @@
 - In a sauce pan add the following in this proportion
 
 | Ingredient      | Relative amounts by weight|
-| ----------- | ----------- |
+| ----------- | :-----------: |
 | Vinegar      | 100%       |
 | Water   | 50%        |
 | Sugar   | 25%        |
