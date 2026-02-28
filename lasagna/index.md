@@ -2,7 +2,9 @@
 
 This dish is based on \href{https://youtu.be/xIQXLTFup6M}{this video} with the recipe of Mile Zero Kitchen.
 
-## Ingredients for the Ragù
+## Ingredients
+
+### Ingredients for the Ragù
 - 500g ground beef
 - 250g ground pork
 - 200g pancetta
@@ -16,7 +18,7 @@ This dish is based on \href{https://youtu.be/xIQXLTFup6M}{this video} with the r
 - 500ml whole milk
 - Parmigiano Rind
 
-## Ingredients for the Bechamel
+### Ingredients for the Bechamel
 - 100g butter
 - 100g flour
 - 1000g whole milk
@@ -26,34 +28,31 @@ This dish is based on \href{https://youtu.be/xIQXLTFup6M}{this video} with the r
 
 More Parmigiano will also be needed for the assembly.
 
-## Milk
+## Instruction
+
+### Milk
 - Boil the 1.5 liters of milk.
 - Discard the cream of the milk.
 - Let the milk rest.
 
-## Ragù
-\begin{enumerate}
-    \item Prepare two skillets.
-    \item Chop
-    \begin{enumerate}
-        \item Onion
-        \item Celery
-        \item Carrot
-        \item Garlic
-        \item Pancetta
-    \end{enumerate}
-    \item Make a soffritto with them.
-    \item Fry the beef and the pork.
-    \begin{description}
-        \item[Note:] Do not add salt if the pancetta is salty already.
-    \end{description}
-    \item Mix the soffritto with the beef and pork
-    \item Add wine
-    \item Add tomato paste.
-    \item Add Parmigiano rind or msg.
-    \item Add 0.5 liters of milk but only what's needed.
-    \item Simmer for at least four hours.
-\end{enumerate}
+### Ragù
+- Prepare two skillets.
+- Chop:
+    - Onion
+    - Celery
+    - Carrot
+    - Garlic
+    - Pancetta
+- Make a soffritto with them.
+- Fry the beef and the pork.
+    - *Note.* Do not add salt if the pancetta is salty already.
+- Mix the soffritto with the beef and the pork.
+- Add tomato paste
+- Add wine
+- Add Parmigiano rind or msg.
+- Add 0.5 liters of milk bu only what is needed.
+- Simmer for at least four hours.
+
 
 \section{Bechamel}
 \begin{enumerate}
