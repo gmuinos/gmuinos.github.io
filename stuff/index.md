@@ -1,14 +1,15 @@
 More dishes:
 - Schnitzel
 - [Oven-roasted chicken](https://youtu.be/0Mss7hxdqvQ)
-- Ensaladilla rusa.
+- Ensaladilla rusa
+- [Meatballs](https://www.seriouseats.com/italian-american-beef-pork-meatballs-red-tomato-sauce-recipe)
 - modernhoney.com/chinese-orange-chicken
 - Black garlic puree.
 - Oeufs en cocotte: eggs with cammebert, chives, spinach, cream cheese, and foccaccia stiks with tomato jam.
 - Zarrangollo
 - [Lemon Butter Chicken](https://www.cookingclassy.com/lemon-butter-chicken/)
 - [Frittata](https://youtu.be/-q8czZSQbbQ)
-- Paella
+- [Paella](https://www.youtube.com/watch?v=WfYjmrH9gSw&t=1s&pp=ygUOcmFndXNlYSBwYWVsbGE%3D)
 - Chicken Soup
 - Churros de Pescado
 - Nasi Goreng
@@ -17,7 +18,7 @@ More dishes:
 - Papas Arrugadas
 - Crunchy Roasted Potatoes
 - The Bee's Knees
-- Crunchy Cesar Salad
+- [Crunchy Cesar Salad](https://www.boerschappen.nl/recepten/Caesar-salade/)
 - Pearl Couscous Fish
 - Rosquetes
 - Mussels
@@ -39,27 +40,6 @@ Candeal flour
         \item Honey syrup: combine equals part warm water and honey.
         \item Mix everything and serve with ice.
     \end{enumerate}
-
-
-
-
-| Flour type               | % of total flour | Weight (for 1 kg flour) |
-| ------------------------ | ---------------- | ----------------------- |
-| Whole grain wheat flour  | 35%              | 350 g                   |
-| Spelt flour              | 25%              | 250 g                   |
-| Oat flour                | 15%              | 150 g                   |
-| Rolled oats (oatmeal)    | 10%              | 100 g                   |
-| Strong white bread flour | 15%              | 150 g                   |
-
-Whole grain 115g
-Spelt 85g
-Oat flour 50g
-Oatmeal 33g
-Strong flour 50g
-Stout 233g
-6 grams of salt
-
-
 
 Almond crusted chicken schnitzel
 
