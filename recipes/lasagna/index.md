@@ -45,7 +45,7 @@ More Parmigiano will also be needed for the assembly.
     - Pancetta
 - Make a soffritto with them.
 - Fry the beef and the pork.
-    - *Note.* Do not add salt if the pancetta is salty already.
+> *Note.* Do not add salt if the pancetta is salty already.
 - Mix the soffritto with the beef and the pork.
 - Add tomato paste
 - Add wine
