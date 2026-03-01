@@ -14,6 +14,6 @@
 - [Glühwein](./recipes/glühwein/)
 - [Black Velvet](./recipes/blackVelvet/)
 
-# [Ideas I want to remember](./recipes/ideas/)
-
 # [Links to other recipes](./recipes/links/)
+
+# [Ideas I want to remember](./recipes/ideas/)
