@@ -16,3 +16,4 @@
 
 # [Ideas I want to remember](./recipes/ideas/)
 
+# [Links to other recipes](./recipes/links/)
