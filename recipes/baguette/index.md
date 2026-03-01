@@ -38,9 +38,11 @@ This recipe broadly follows [this video](https://youtu.be/A-QvjTmSJyY).
 - Shape like two bâtard.
 - Place the doughs on the fabric seam-side up.
 - Rest for one hour covered
+
+### Baking
 - Preheat the oven at 250°
+> It is crucial to plan the water in the oven in advance.
 - Invert the loaves side by side onto a sheet of parchment.
 - Score the tops of the loaves.
-- Load the loaves (still on the parchment) into the oven.
-> It is crucial to plan the water in the oven in advance.
+- Load the loaves (still on the parchment) into the oven and any type of water or ice.
 - Bake the loaves for 32 to 38 minutes, until the crust is firm and medium golden brown.
