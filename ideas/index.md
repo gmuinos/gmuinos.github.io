@@ -5,4 +5,3 @@
 - When reverse-searing, cut inmediatelly.
 - Bakers percentage is a ratio.
 - Jasmine clove lime
-- Add sauce liquid to the corn starch instead of cold water
