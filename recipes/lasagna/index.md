@@ -30,6 +30,19 @@ More Parmigiano will also be needed for the assembly.
 
 ## Instructions
 
+<input type="number" id="numberInput">
+<button id="btn">Add 1</button>
+<p id="result"></p>
+
+<script>
+document.getElementById("btn").addEventListener("click", function() {
+  let value = Number(document.getElementById("numberInput").value);
+  document.getElementById("result").textContent =
+    Number.isNaN(value) ? "Enter a number" : value + 1;
+});
+</script>
+
+
 ### Milk
 - Boil the 1.5 liters of milk.
 - Discard the cream of the milk.
