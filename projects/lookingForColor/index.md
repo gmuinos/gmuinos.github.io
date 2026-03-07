@@ -4,7 +4,7 @@
 
 # White wine
 
-![mosel](https://www.katiesaway.com/wp-content/smush-webp/2021/11/moselvalley-6742-2-1536x1024.jpg.webp)
+![mosel](https://wineinternationalassociation.org/wp-content/uploads/2019/11/The-Mosel-Valley-2048x1368.jpg)
 
 ***Area:***
 
