@@ -52,7 +52,7 @@
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=2.0214843750000004%2C43.3610759013348%2C13.337402343750002%2C47.193392807119075&amp;layer=mapnik&amp;marker=45.309611566558154%2C7.679443359375" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.310&amp;mlon=7.679#map=7/45.310/7.679">View Larger Map</a></small>
 
 
-<button id="floatingBtn">Show Image</button>
+<button id="floatingBtn">The four types</button>
 
 <div id="imagePopup" style="display:none;">
   <img src="https://scontent.fein1-1.fna.fbcdn.net/v/t39.30808-6/481666345_1052283500264578_7444298062378240971_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=Y-AgHeqh3X8Q7kNvwFw1SlQ&_nc_oc=AdmL1aLZ0g3vBNzmY1XtBbC4IKrDD_Zf7GJMu7Bbun401RYQddzti05VJZSHu3SBeAU&_nc_zt=23&_nc_ht=scontent.fein1-1.fna&_nc_gid=2GLqOmtVvPWtmVk-duO7TQ&_nc_ss=8&oh=00_Afz38m6mVRuFqiWwGAHnyFZdQFP7wHdAleo7iEEhelT79w&oe=69B1BEE1" width="350">
@@ -64,7 +64,7 @@
   bottom: 20px;
   right: 20px;
   padding: 12px 16px;
-  background-color: #007BFF;
+  background-color: #990293;
   color: white;
   border: none;
   border-radius: 50px;
