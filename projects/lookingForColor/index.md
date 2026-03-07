@@ -1,3 +1,8 @@
+<!-- FAB with Ripple effect -->
+<button type="button" class="btn btn-ms btn-fab leaf-fab btn-purple ripple">
+    <i class="material-icons">favorite_border</i>
+</button>
+
 # Getting Some Color
 
 ![winemaking](https://scontent.fein1-1.fna.fbcdn.net/v/t39.30808-6/481666345_1052283500264578_7444298062378240971_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=Y-AgHeqh3X8Q7kNvwFw1SlQ&_nc_oc=AdmL1aLZ0g3vBNzmY1XtBbC4IKrDD_Zf7GJMu7Bbun401RYQddzti05VJZSHu3SBeAU&_nc_zt=23&_nc_ht=scontent.fein1-1.fna&_nc_gid=2GLqOmtVvPWtmVk-duO7TQ&_nc_ss=8&oh=00_Afz38m6mVRuFqiWwGAHnyFZdQFP7wHdAleo7iEEhelT79w&oe=69B1BEE1)
