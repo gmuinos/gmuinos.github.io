@@ -21,11 +21,11 @@
 
 ![alsace](https://internationalliving.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwv75stsetqy3%2F7lIPEhQeqawJ8iownoSXZM%2F7962373ad77da59805b8b8d35d612096%2FAlsace__France.jpg%3Fw%3D1800%26h%3D600%26q%3D60%26fit%3Dfill%26fm%3Dwebp&w=3840&q=60)
 
-**Gustave Lorentz, Qui l’Eût Cru**
+Gustave Lorentz, Qui l’Eût Cru
 
 ***Grapes:*** Gewürztraminer, Pinot Gris, Sylvaner
 
-***Alsace, France*** 
+*Alsace, France*
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.4611816406250002%2C46.53784224512105%2C12.777099609375%2C50.15732228373545&amp;layer=mapnik&amp;marker=48.3797382432003%2C7.119140625" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.380&amp;mlon=7.119#map=7/48.380/7.119">View Larger Map</a></small>
 
