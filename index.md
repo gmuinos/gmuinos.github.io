@@ -18,4 +18,6 @@
 
 # [Ideas I want to remember](./ideas/)
 
-# [Looking for Some Color](./projects/lookingForColor/)
+# Celebrations
+
+[Looking for Some Color](./projects/lookingForColor/)
