@@ -17,3 +17,5 @@
 # [Links to other recipes](./recipes/links/)
 
 # [Ideas I want to remember](./ideas/)
+
+# [Getting Some Color](./projects/lookingForColor/)
