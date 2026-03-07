@@ -12,7 +12,7 @@
 
 ***Grapes:***
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.636962890625%2C48.39999820442095%2C12.952880859375002%2C51.8900220583336&amp;layer=mapnik&amp;marker=50.17686504441581%2C7.294921875" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.177&amp;mlon=7.295#map=7/50.177/7.295"></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.636962890625%2C48.39999820442095%2C12.952880859375002%2C51.8900220583336&amp;layer=mapnik&amp;marker=50.17686504441581%2C7.294921875" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.177&amp;mlon=7.295#map=7/50.177/7.295">
 
 # Orange wine
 
@@ -37,7 +37,7 @@
 
 ***Grapes:*** Cinsault, Grenache, Mourvèdre
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=0.10986328125000001%2C41.22551893724908%2C11.425781250000002%2C45.19496437381082&amp;layer=mapnik&amp;marker=43.24255853368201%2C5.767822265625" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=43.243&amp;mlon=5.768#map=7/43.243/5.768">View Larger Map</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=0.10986328125000001%2C41.22551893724908%2C11.425781250000002%2C45.19496437381082&amp;layer=mapnik&amp;marker=43.24255853368201%2C5.767822265625" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=43.243&amp;mlon=5.768#map=7/43.243/5.768">
 
 # Red wine
 
@@ -49,7 +49,7 @@
 
 ***Grapes:***
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=2.0214843750000004%2C43.3610759013348%2C13.337402343750002%2C47.193392807119075&amp;layer=mapnik&amp;marker=45.309611566558154%2C7.679443359375" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.310&amp;mlon=7.679#map=7/45.310/7.679">View Larger Map</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=2.0214843750000004%2C43.3610759013348%2C13.337402343750002%2C47.193392807119075&amp;layer=mapnik&amp;marker=45.309611566558154%2C7.679443359375" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.310&amp;mlon=7.679#map=7/45.310/7.679">
 
 
 <button id="floatingBtn">The four types</button>
