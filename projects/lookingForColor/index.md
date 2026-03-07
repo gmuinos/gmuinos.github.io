@@ -6,7 +6,7 @@
 
 > Press. Separate. Ferment.
 
-## Today's example:
+#### Today's example:
 
 ![mosel](https://wineinternationalassociation.org/wp-content/uploads/2019/11/The-Mosel-Valley-2048x1368.jpg)
 
@@ -22,7 +22,7 @@
 
 > Press white grapes. Keep together. Ferment. Separate.
 
-### Today's example:
+#### Today's example:
 
 ![alsace](https://internationalliving.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwv75stsetqy3%2F7lIPEhQeqawJ8iownoSXZM%2F7962373ad77da59805b8b8d35d612096%2FAlsace__France.jpg%3Fw%3D1800%26h%3D600%26q%3D60%26fit%3Dfill%26fm%3Dwebp&w=3840&q=60)
 
@@ -55,7 +55,7 @@
 
 > Press red grapes. Keep together. Ferment. Separate.
 
-##### Today's example:
+#### Today's example:
 
 ![piemonte](https://static2-viaggi.corriereobjects.it/wp-content/uploads/2015/06/piemonte-guide-getty-1080x720.jpg?v=136710)
 
