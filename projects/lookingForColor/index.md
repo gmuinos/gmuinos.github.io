@@ -12,7 +12,7 @@
 
 ***Area:*** Mosel, Germany
 
-***Name:***
+***Wine:*** Jakob Schneider, Tradition
 
 ***Grape:*** Riesling
 
@@ -61,7 +61,7 @@
 
 ***Area:*** Piedmont, Italy
 
-***Wine:***
+***Wine:*** Produttori del Barbaresco, Barbaresco
 
 ***Grapes:*** Nebbiolo
 
