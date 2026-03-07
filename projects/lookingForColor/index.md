@@ -4,17 +4,21 @@
 
 # White wine
 
+> Press. Separate juice from grapes. Fermentation.
+
 ![mosel](https://wineinternationalassociation.org/wp-content/uploads/2019/11/The-Mosel-Valley-2048x1368.jpg)
 
-***Area:***
+***Area:*** Mosel, Germany
 
 ***Name:***
 
-***Grapes:***
+***Grape:*** Riesling
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.636962890625%2C48.39999820442095%2C12.952880859375002%2C51.8900220583336&amp;layer=mapnik&amp;marker=50.17686504441581%2C7.294921875" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.177&amp;mlon=7.295#map=7/50.177/7.295">
 
 # Orange wine
+
+> Press white grapes, keeping grapes with juice. Ferment. Separate.
 
 ![alsace](https://internationalliving.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwv75stsetqy3%2F7lIPEhQeqawJ8iownoSXZM%2F7962373ad77da59805b8b8d35d612096%2FAlsace__France.jpg%3Fw%3D1800%26h%3D600%26q%3D60%26fit%3Dfill%26fm%3Dwebp&w=3840&q=60)
 
@@ -29,6 +33,8 @@
 
 # Rosé wine
 
+> Press red grapes. Keep juice in contact with grapes less than a day. Separate. Ferment.
+
 ![provence](https://img.sandayagroupe.eu/images/_aliases/paragraph_image_col6/0/3/3/4/754330-7-eng-GB/adfb379a7bb6-Provence-1-.jpg)
 
 ***Area:*** Provence, France
@@ -41,13 +47,15 @@
 
 # Red wine
 
+> Press red grapes, keeping them together with the juice. Ferment. Separate.
+
 ![piemonte](https://static2-viaggi.corriereobjects.it/wp-content/uploads/2015/06/piemonte-guide-getty-1080x720.jpg?v=136710)
 
-***Area:***
+***Area:*** Piedmont, Italy
 
 ***Wine:***
 
-***Grapes:***
+***Grapes:*** Nebbiolo
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=2.0214843750000004%2C43.3610759013348%2C13.337402343750002%2C47.193392807119075&amp;layer=mapnik&amp;marker=45.309611566558154%2C7.679443359375" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.310&amp;mlon=7.679#map=7/45.310/7.679">
 
