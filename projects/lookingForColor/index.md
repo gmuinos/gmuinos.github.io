@@ -4,7 +4,7 @@
 
 # White wine
 
-> Press. Separate juice from grapes. Fermentation.
+> Press. Separate. Ferment.
 
 ![mosel](https://wineinternationalassociation.org/wp-content/uploads/2019/11/The-Mosel-Valley-2048x1368.jpg)
 
@@ -18,7 +18,7 @@
 
 # Orange wine
 
-> Press white grapes, keeping grapes with juice. Ferment. Separate.
+> Press white grapes. Keep together. Ferment. Separate.
 
 ![alsace](https://internationalliving.com/_next/image/?url=https%3A%2F%2Fimages.ctfassets.net%2Fwv75stsetqy3%2F7lIPEhQeqawJ8iownoSXZM%2F7962373ad77da59805b8b8d35d612096%2FAlsace__France.jpg%3Fw%3D1800%26h%3D600%26q%3D60%26fit%3Dfill%26fm%3Dwebp&w=3840&q=60)
 
@@ -33,7 +33,7 @@
 
 # Rosé wine
 
-> Press red grapes. Keep juice in contact with grapes less than a day. Separate. Ferment.
+> Press red grapes. Keep together shortly. Separate. Ferment.
 
 ![provence](https://img.sandayagroupe.eu/images/_aliases/paragraph_image_col6/0/3/3/4/754330-7-eng-GB/adfb379a7bb6-Provence-1-.jpg)
 
@@ -47,7 +47,7 @@
 
 # Red wine
 
-> Press red grapes, keeping them together with the juice. Ferment. Separate.
+> Press red grapes. Keep together. Ferment. Separate.
 
 ![piemonte](https://static2-viaggi.corriereobjects.it/wp-content/uploads/2015/06/piemonte-guide-getty-1080x720.jpg?v=136710)
 
