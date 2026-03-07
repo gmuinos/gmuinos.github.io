@@ -57,3 +57,46 @@
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=2.0214843750000004%2C43.3610759013348%2C13.337402343750002%2C47.193392807119075&amp;layer=mapnik&amp;marker=45.309611566558154%2C7.679443359375" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.310&amp;mlon=7.679#map=7/45.310/7.679">View Larger Map</a></small>
 
 
+<button id="floatingBtn">Show Image</button>
+
+<div id="imagePopup" style="display:none;">
+  <img src="/images/myimage.png" width="250">
+</div>
+
+<style>
+#floatingBtn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 12px 16px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+#imagePopup {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+</style>
+
+<script>
+const btn = document.getElementById("floatingBtn");
+const popup = document.getElementById("imagePopup");
+
+btn.onclick = function() {
+  if (popup.style.display === "none" || popup.style.display === "") {
+    popup.style.display = "block";
+  } else {
+    popup.style.display = "none";
+  }
+};
+</script>
+
