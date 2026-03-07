@@ -8,6 +8,8 @@
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-15.336914062500002%2C42.68228352231121%2C29.926757812500004%2C56.65611293363247&amp;layer=mapnik&amp;marker=50.17676581152264%2C7.294921875" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.18&amp;mlon=7.29#map=5/50.18/7.29">View Larger Map</a></small>
 
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.636962890625%2C48.39999820442095%2C12.952880859375002%2C51.8900220583336&amp;layer=mapnik&amp;marker=50.17686504441581%2C7.294921875" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.177&amp;mlon=7.295#map=7/50.177/7.295">View Larger Map</a></small>
+
 ***Producer:***
 
 ***Name:***
