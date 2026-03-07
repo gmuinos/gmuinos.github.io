@@ -12,7 +12,7 @@
 
 ***Grapes:***
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.636962890625%2C48.39999820442095%2C12.952880859375002%2C51.8900220583336&amp;layer=mapnik&amp;marker=50.17686504441581%2C7.294921875" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.177&amp;mlon=7.295#map=7/50.177/7.295">View Larger Map</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.636962890625%2C48.39999820442095%2C12.952880859375002%2C51.8900220583336&amp;layer=mapnik&amp;marker=50.17686504441581%2C7.294921875" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.177&amp;mlon=7.295#map=7/50.177/7.295"></small>
 
 # Orange wine
 
@@ -24,7 +24,7 @@
 
 ***Grapes:*** Gewürztraminer, Pinot Gris, Sylvaner
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.4611816406250002%2C46.53784224512105%2C12.777099609375%2C50.15732228373545&amp;layer=mapnik&amp;marker=48.3797382432003%2C7.119140625" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.380&amp;mlon=7.119#map=7/48.380/7.119">View Larger Map</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=1.4611816406250002%2C46.53784224512105%2C12.777099609375%2C50.15732228373545&amp;layer=mapnik&amp;marker=48.3797382432003%2C7.119140625" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.380&amp;mlon=7.119#map=7/48.380/7.119">
 
 
 # Rosé wine
