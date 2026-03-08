@@ -10,7 +10,7 @@
 
 ![mosel](https://wineinternationalassociation.org/wp-content/uploads/2019/11/The-Mosel-Valley-2048x1368.jpg)
 
-***Area:*** Mosel, Germany
+***Area:*** Nahe, Germany
 
 ***Wine:*** Jakob Schneider, Tradition
 
@@ -43,7 +43,7 @@
 
 ![provence](https://img.sandayagroupe.eu/images/_aliases/paragraph_image_col6/0/3/3/4/754330-7-eng-GB/adfb379a7bb6-Provence-1-.jpg)
 
-***Area:*** Provence, France
+***Area:*** Bandol, Provence, France
 
 ***Wine:*** Domaines Bunan, Mas de la Rouvière
 
@@ -59,7 +59,7 @@
 
 ![piemonte](https://static2-viaggi.corriereobjects.it/wp-content/uploads/2015/06/piemonte-guide-getty-1080x720.jpg?v=136710)
 
-***Area:*** Piedmont, Italy
+***Area:*** Barbaresco, Piedmont, Italy
 
 ***Wine:*** Produttori del Barbaresco, Barbaresco
 
