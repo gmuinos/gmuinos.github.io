@@ -20,3 +20,16 @@
  - Add more sugar if necessary.
 -  Wait another 30 minutes at least.
 
+<script>
+function calculateIndex() {
+  let pearson = document.getElementById("pearson").value;
+  let r = parseFloat(pearson);
+
+  let index = 2 * r / (1 + r);
+
+  document.getElementById("result").textContent =
+    "Your two-item reliability index is " + index;
+}
+</script>
+
+Something
