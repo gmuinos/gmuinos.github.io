@@ -20,6 +20,13 @@
  - Add more sugar if necessary.
 -  Wait another 30 minutes at least.
 
+<label>Pearson correlation:</label>
+<input id="pearson" type="number" step="any">
+
+<button onclick="calculateIndex()">Calculate</button>
+
+<p id="result"></p>
+
 <script>
 function calculateIndex() {
   let pearson = document.getElementById("pearson").value;
