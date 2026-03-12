@@ -40,6 +40,26 @@ It is useful to have semolina as well for kneading.
 - Divide and ball the dough.
 - Leave it in the refrigerator until an hour before cooking.
 
+<label>Pearson correlation:</label>
+<input id="pearson" type="number" step="any">
+
+<button onclick="calculateIndex()">Calculate</button>
+
+<p id="result"></p>
+
+<script>
+function calculateIndex() {
+  let pearson = document.getElementById("pearson").value;
+  let r = parseFloat(pearson);
+
+  let index = 2 * r / (1 + r);
+
+  document.getElementById("result").textContent =
+    "Your two-item reliability index is " + index;
+}
+</script>
+
+
 ## Steps
 - Take the mozzarella out of the package, dry it, and keep it in the fridge open to dry.
 - Preheat the oven with a steel or stone at maximum temperature. The steel or stone should be in the oven at max temperature for an hour.
