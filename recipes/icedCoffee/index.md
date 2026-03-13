@@ -5,8 +5,8 @@ How much liquid coffee do you want? (in milliliters)
 </label>
 <br><br>
 
-<input type="number" id="coffeeAmount" placeholder="Enter ml">
-<button onclick="calculateCoffee()">Calculate</button>
+<input type="number" id="coffeeAmount" placeholder="Final coffee in ml">
+<button onclick="calculateCoffee()">Let the magic happen</button>
 
 <p id="result"></p>
 
