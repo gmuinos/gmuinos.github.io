@@ -11,7 +11,7 @@
 - [Quick-pickled Vegetables](./recipes/quickPickle/)
 
 # Drinks
-- [Iced Coffee](.recipes/icedCoffee/)
+- [Iced Coffee](./recipes/icedCoffee/)
 - [Glühwein](./recipes/glühwein/)
 - [Black Velvet](./recipes/blackVelvet/)
 
