@@ -1,5 +1,4 @@
 # Iced Coffee Calculator
-## Subtitle test directly here
 
 <label for="coffeeAmount">
 How much liquid coffee do you want? (in milliliters)
