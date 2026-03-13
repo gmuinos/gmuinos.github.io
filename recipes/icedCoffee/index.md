@@ -21,7 +21,7 @@ function calculateCoffee() {
     const totalWater = final * 0.6;
 
     const output = `
-    You need to grind ${beans.toFixed(2)} grams of coffee beans,
+    You need to grind ${beans.toFixed(2)} grams of coffee beans, prepare 
     ${ice.toFixed(2)} grams of ice, and boil a total of
     ${totalWater.toFixed(2)} grams of water.<br><br>
 
