@@ -1,7 +1,7 @@
-<h3>Iced Coffee Calculator</h3>
+# Iced Coffee Calculator
 
 <label for="coffeeAmount">
-How much liquid coffee do you want? (milliliters)
+How much liquid coffee do you want? (in milliliters)
 </label>
 <br><br>
 
@@ -21,8 +21,8 @@ function calculateCoffee() {
     const totalWater = final * 0.6;
 
     const output = `
-    You need to prepare ${beans.toFixed(2)} grams of coffee beans,
-    ${ice.toFixed(2)} gr of ice, and boil a total of
+    You need to grind ${beans.toFixed(2)} grams of coffee beans,
+    ${ice.toFixed(2)} grams of ice, and boil a total of
     ${totalWater.toFixed(2)} grams of water.<br><br>
 
     Use ${bloom.toFixed(2)} grams of water for the bloom and
