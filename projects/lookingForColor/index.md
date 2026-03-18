@@ -61,7 +61,7 @@
 
 ***Area:*** Barbaresco, Piedmont, Italy
 
-***Wine:*** ![Produttori del Barbaresco](https://www.produttoridelbarbaresco.com/i-soci/), Barbaresco
+***Wine:*** [Produttori del Barbaresco](https://www.produttoridelbarbaresco.com/i-soci/), Barbaresco
 
 ***Grapes:*** Nebbiolo
 
