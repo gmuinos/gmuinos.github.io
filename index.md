@@ -22,3 +22,5 @@
 # Celebrations
 
 [Looking for Some Color](./projects/lookingForColor/)
+
+[Fideos](./projects/noodles2026/)
