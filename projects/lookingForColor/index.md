@@ -1,6 +1,5 @@
 # Looking for Some Color
-
-![winemaking](https://scontent.fein1-1.fna.fbcdn.net/v/t39.30808-6/481666345_1052283500264578_7444298062378240971_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=mFCLJTfxf2cQ7kNvwGBEuTt&_nc_oc=Adln4RyWlXKHVU40KOi7DpF-_bWhl7PAQIVfH2iURxrHFiaph5VjujD_l09GQlQ58wM&_nc_zt=23&_nc_ht=scontent.fein1-1.fna&_nc_gid=HmDVpzJV51h6xCW9RqmFhg&_nc_ss=8&oh=00_AfwKhmlS12CflSTJw1UOrFBitmjBajDzkqeUmZiRj_sXOg&oe=69B9A7E1)
+![wines](https://i.imgur.com/SkcdwKW.jpeg)
 
 # White wine
 
@@ -71,7 +70,7 @@
 <button id="floatingBtn">The four types</button>
 
 <div id="imagePopup" style="display:none;">
-  <img src="https://scontent.fein1-1.fna.fbcdn.net/v/t39.30808-6/481666345_1052283500264578_7444298062378240971_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=mFCLJTfxf2cQ7kNvwGBEuTt&_nc_oc=Adln4RyWlXKHVU40KOi7DpF-_bWhl7PAQIVfH2iURxrHFiaph5VjujD_l09GQlQ58wM&_nc_zt=23&_nc_ht=scontent.fein1-1.fna&_nc_gid=HmDVpzJV51h6xCW9RqmFhg&_nc_ss=8&oh=00_AfwKhmlS12CflSTJw1UOrFBitmjBajDzkqeUmZiRj_sXOg&oe=69B9A7E1" width="350">
+  <img src="https://i.imgur.com/SkcdwKW.jpeg" width="350">
 </div>
 
 <style>
