@@ -9,7 +9,7 @@
 - [Oven-roasted Potatoes](./recipes/roastedPotatoes/)
 - [Baguette](./recipes/baguette/)
 - [Quick-pickled Vegetables](./recipes/quickPickle/)
-- [Pop Corn](./recipes/popCorn/)
+- [Popcorn](./recipes/popCorn/)
 
 # Drinks
 - [Iced Coffee](./recipes/icedCoffee/)
