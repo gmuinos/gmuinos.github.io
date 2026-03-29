@@ -7,7 +7,7 @@
 |Rotenberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅||
 |Barolo|Prunotto|Barolo|Nebbiolo|2017|🔶|✅|✅|✅|✅|Gift|
 |Pauillac|Haut-Bages Monpelou|Pauillac|"Cabernet Sauvignon, Merlot, Cabernet Franc"|2016|✅|✅|✅|✅|✅||
-|5 Stelle Sfursat|Nino Negri|Sforzato di Valtellina|Nebbiolo|🔶|🔶|🔶|🔶|✅||
+|5 Stelle Sfursat|Nino Negri|Sforzato di Valtellina|Nebbiolo|2017|🔶|🔶|🔶|🔶|✅||
 
 Something here
 
