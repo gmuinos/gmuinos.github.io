@@ -8,7 +8,7 @@
 
 Something here
 
-|Beer|Brewery|2026|2027|2028|2029|2030|Notes|
+|Beer|Brewery|Style|2026|2027|2028|2029|2030|Notes|
 |-|-|-|-|-|-|-|-|
 |||||||||
 |||||||||
