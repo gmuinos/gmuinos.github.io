@@ -16,5 +16,5 @@
 
 |Beer|Brewery|Style|2026|2027|2028|2029|2030|Notes|
 |-|-|-|-|-|-|-|-|-|
-|À l'ancienne|Tilquin|Grape wild ale with riesling|✅|✅|✅|✅|✅|2020/2021|
+|À l'ancienne|Tilquin|Wild grape ale|✅|✅|✅|✅|✅|Riesling, 2020/2021|
 |||||||||
