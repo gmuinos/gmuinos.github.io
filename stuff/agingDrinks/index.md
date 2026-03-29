@@ -18,12 +18,12 @@
 |-|-|-|-|-|-|-|-|-|-|
 |Billiard|Frontaal|Stout|2017|✅|✅|🔶|🔶|🔶|Oatmeal|
 |Billiard|Frontaal|Stout|2021|✅|✅|✅|✅|✅|Oatmeal|
-|À l'ancienne|Tilquin|Wild grape ale|2020/2021|✅|✅|✅|✅|✅|Riesling|
+|À l'ancienne|Tilquin|Wild grape ale|2021|✅|✅|✅|✅|✅|Riesling|
 |Sintel|Nevel|Bière de Garde|2024|✅|✅|✅|✅|✅|Roasted willow bark|
 |Sintel|Nevel|Bière de Garde|2024|✅|✅|✅|✅|✅|Roasted willow bark|
 |Bast|Nevel|wild ale|2024|✅|✅|✅|✅|✅|Birch bark, pine tops, and blackthorn branches|
 |Bast|Nevel|wild ale|2024|✅|✅|✅|✅|✅|Birch bark, pine tops, and blackthorn branches|
 |Bast|Nevel|wild ale|2024|✅|✅|✅|✅|✅|Birch bark, pine tops, and blackthorn branches|
-|Rust|Nevel|Dry-hopped wild ale|20223|✅|✅|✅|✅|✅||
-|Rust|Nevel|Dry-hopped wild ale|20223|✅|✅|✅|✅|✅||
+|Rust|Nevel|Dry-hopped wild ale|2023|✅|✅|✅|✅|✅||
+|Rust|Nevel|Dry-hopped wild ale|2023|✅|✅|✅|✅|✅||
 
