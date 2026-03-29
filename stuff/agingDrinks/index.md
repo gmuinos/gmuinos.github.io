@@ -16,6 +16,7 @@
 
 |Beer|Brewery|Style|Yes|2026|2027|2028|2029|2030|Notes|
 |-|-|-|-|-|-|-|-|-|-|
+|Old foghorn|Anchor|Barley Wine|2023|✅|🔶|🔶|🔶|🔶||
 |Billiard|Frontaal|Stout|2017|✅|✅|🔶|🔶|🔶|Oatmeal|
 |Billiard|Frontaal|Stout|2021|✅|✅|✅|✅|✅|Oatmeal|
 |À l'ancienne|Tilquin|Wild grape ale|2021|✅|✅|✅|✅|✅|Riesling|
