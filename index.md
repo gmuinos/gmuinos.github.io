@@ -6,6 +6,7 @@
 - [Neapolitan Pizza](./recipes/pizza/) 
 
 # Side dishes
+- [Grandma Rice](./recipes/rice/)
 - [Oven-roasted Potatoes](./recipes/roastedPotatoes/)
 - [Baguette](./recipes/baguette/)
 - [Quick-pickled Vegetables](./recipes/quickPickle/)
