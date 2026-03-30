@@ -12,14 +12,15 @@
 - Mojo Rojo
 - Mojo Verde
 - Papas Arrugadas
-- Crunchy Roasted Potatoes
-- The Bee's Knees
 - Pearl Couscous Fish
 - Rosquetes
 - Mussels
 - Panuozzo
-- Potaje de verduras, de lentejas, rancho, arroz,...
+- Potaje de verduras, de lentejas, rancho,...
 - Candeal flour
+- Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
+- Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
+- Unique beer styles: Smoked German, Oud Bruin, Brett, Braggot, Freezed-distilled 
 
 ```
 \subsection{The Bee's Knees}
@@ -64,9 +65,4 @@ To cook the schnitzels, put a large non-stick frying pan over a medium heat, the
 
 
 
-- Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
-- Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
-
-
-- Unique beer styles: Smoked German, Oud Bruin, Brett, Braggot, Freezed-distilled 
 
