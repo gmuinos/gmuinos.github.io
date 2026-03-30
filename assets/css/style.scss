@@ -1,12 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-merlot";
 
 .wrapper {
   max-width: 1100px !important;
-}
-
-section {
-  max-width: 1000px;
 }
