@@ -22,6 +22,8 @@
 
 # [Ideas I want to remember](./ideas/)
 
+<!--
 # Celebrations
 
 [Looking for Some Color](./projects/lookingForColor/)
+-->
