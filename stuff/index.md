@@ -1,8 +1,5 @@
 
-https://youtu.be/egbZQKkOJAI?is=sR44ANr1JE9hEhIJ
-
-
-More dishes:
+- https://youtu.be/egbZQKkOJAI?is=sR44ANr1JE9hEhIJ
 - Schnitzel
 - Ensaladilla rusa
 - modernhoney.com/chinese-orange-chicken
@@ -22,9 +19,9 @@ More dishes:
 - Mussels
 - Panuozzo
 - Potaje de verduras, de lentejas, rancho, arroz,...
+- Candeal flour
 
-Candeal flour
-
+```
 \subsection{The Bee's Knees}
 \paragraph{Ingredient list}
     \begin{itemize}
@@ -37,8 +34,9 @@ Candeal flour
         \item Honey syrup: combine equals part warm water and honey.
         \item Mix everything and serve with ice.
     \end{enumerate}
+```
 
-Almond crusted chicken schnitzel
+### Almond crusted chicken schnitzel
 
 Traditionally, schnitzels are coated in crisp breadcrumbs, but this delicious version using almonds and cornflour makes this nuttily delicious and suitable for anyone avoiding gluten.
 
@@ -66,9 +64,9 @@ To cook the schnitzels, put a large non-stick frying pan over a medium heat, the
 
 
 
-Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
-Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
+- Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
+- Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
 
 
-Unique beer styles: Smoked German, Oud Bruin, Brett, Braggot, Freezed-distilled 
+- Unique beer styles: Smoked German, Oud Bruin, Brett, Braggot, Freezed-distilled 
 
