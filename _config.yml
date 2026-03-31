@@ -1,3 +1,5 @@
-theme: jekyll-theme-merlot
+plugins:
+  - jekyll-remote-theme
+remote_theme: mmistakes/minimal-mistakes
 title: Recipes
 description: Some recipes to keep around
