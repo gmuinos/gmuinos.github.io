@@ -19,13 +19,13 @@
 |Old foghorn|Anchor|Barley wine|2021|✅|🔶|🔶|🔶|🔶||
 |Billiard|Frontaal|Stout|2017|✅|✅|🔶|🔶|🔶|Oatmeal|
 |Billiard|Frontaal|Stout|2021|✅|✅|✅|✅|✅|Oatmeal|
+|Rust|Nevel|Dry-hopped wild ale|2023|✅|✅|✅|🔶|🔶||
+|Rust|Nevel|Dry-hopped wild ale|2023|✅|✅|✅|🔶|🔶||
+|Sintel|Nevel|Bière de Garde|2024|✅|✅|✅|✅|🔶|Roasted willow bark|
+|Sintel|Nevel|Bière de Garde|2024|✅|✅|✅|✅|🔶|Roasted willow bark|
+|Bast|Nevel|Wild ale|2024|✅|✅|✅|✅|🔶|Birch bark, pine tops, and blackthorn branches|
+|Bast|Nevel|Wild ale|2024|✅|✅|✅|✅|🔶|Birch bark, pine tops, and blackthorn branches|
+|Bast|Nevel|Wild ale|2024|✅|✅|✅|✅|🔶|Birch bark, pine tops, and blackthorn branches|
 |À l'ancienne|Tilquin|Wild grape ale|2021|✅|✅|✅|✅|✅|Riesling|
-|Sintel|Nevel|Bière de Garde|2024|✅|✅|✅|✅|✅|Roasted willow bark|
-|Sintel|Nevel|Bière de Garde|2024|✅|✅|✅|✅|✅|Roasted willow bark|
-|Rust|Nevel|Dry-hopped wild ale|2023|✅|✅|✅|✅|✅||
-|Rust|Nevel|Dry-hopped wild ale|2023|✅|✅|✅|✅|✅||
-|Bast|Nevel|Wild ale|2024|✅|✅|✅|✅|✅|Birch bark, pine tops, and blackthorn branches|
-|Bast|Nevel|Wild ale|2024|✅|✅|✅|✅|✅|Birch bark, pine tops, and blackthorn branches|
-|Bast|Nevel|Wild ale|2024|✅|✅|✅|✅|✅|Birch bark, pine tops, and blackthorn branches|
 
 
