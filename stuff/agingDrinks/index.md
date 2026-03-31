@@ -9,7 +9,7 @@
 |San Sebastiano allo Zoppo|Tenute Sella|Piedmont|Nebbiolo, vespolina|2006|🔶|✅|✅|✅|✅||
 |Pauillac|Haut-Bages Monpelou|Pauillac|Cabernet sauvignon, merlot, cabernet franc|2016|🔶|✅|✅|✅|✅||
 |Vinhas Velhas|Luis Pato|Bairrada|Baga|2017|🔶|🔶|✅|✅|✅||
-|Barolo|Prunotto|Barolo|Nebbiolo|2017|🔶|🔶|🔶|✅|✅||
+|Barolo|Prunotto|Barolo|Nebbiolo|2017|🔶|🔶|✅|✅|✅||
 |Barolo|San Silvestro|Barolo|Nebbiolo|2018|🔶|🔶|🔶|🔶|✅||
 |5 Stelle Sfursat|Nino Negri|Sforzato di Valtellina|Nebbiolo|2017|🔶|🔶|🔶|🔶|🔶||
 
