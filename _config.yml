@@ -2,7 +2,7 @@ remote_theme: yizeng/jekyll-theme-simple-texture
 
 plugins:
   - jekyll-remote-theme
-    - jekyll-feed
+  - jekyll-feed
 
 title: Recipes
 description: Some recipes to keep around
