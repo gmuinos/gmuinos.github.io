@@ -1,7 +1,4 @@
-remote_theme: jeromelachaud/freelancer-theme
-
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-merlot
 
 title: Recipes
 description: Some recipes to keep around
