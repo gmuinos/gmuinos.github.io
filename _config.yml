@@ -1,5 +1,4 @@
-remote_theme: jeffreytse/jekyll-theme-yat
-
+remote_theme: jeromelachaud/freelancer-theme
 
 plugins:
   - jekyll-remote-theme
