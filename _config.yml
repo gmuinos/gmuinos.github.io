@@ -1,8 +1,4 @@
-remote_theme: yizeng/jekyll-theme-simple-texture
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+theme: merlot-jekyll-theme
 
 title: Recipes
 description: Some recipes to keep around
