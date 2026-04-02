@@ -1,4 +1,7 @@
-theme: jekyll-theme-merlot
+remote_theme: raviriley/agency-jekyll-theme
+
+plugins:
+  - jekyll-remote-theme
 
 title: Recipes
 description: Some recipes to keep around
