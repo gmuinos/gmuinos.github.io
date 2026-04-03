@@ -14,6 +14,7 @@
 - [Baguette](./recipes/baguette/)
 - [Quick-pickled Vegetables](./recipes/quickPickle/)
 - [Popcorn](./recipes/popCorn/)
+- [Crunchy Chickpea Caesar Salad](./recipes/crunchyCaesar/)
 
 # Drinks
 - [Iced Coffee](./recipes/icedCoffee/)
