@@ -5,6 +5,7 @@
 - [Potato Omelette](./recipes/potatoOmelette/)
 - [Neapolitan Pizza](./recipes/pizza/)
 - [Almond Schnitzel](./recipes/almondChicken/)
+- [Fish with Couscous](./recipes/fishCouscous/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
