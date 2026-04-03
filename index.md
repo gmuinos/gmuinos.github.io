@@ -6,6 +6,7 @@
 - [Neapolitan Pizza](./recipes/pizza/)
 - [Almond Schnitzel](./recipes/almondChicken/)
 - [Fish with Couscous](./recipes/fishCouscous/)
+- [Lemon Butter Chicken](./recipes/lemonChicken/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
