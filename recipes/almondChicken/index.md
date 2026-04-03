@@ -3,15 +3,15 @@
 Based on [this](https://www.theguardian.com/food/2025/oct/27/harissa-baked-hake-chicken-schnitzel-recipes-ravinder-bhogal) recipe.
 
 ## Ingredients
-- boneless, skinless chicken breasts
+- chicken breasts
 - parmesan
-- 250g almonds
-- Zest of 1 lemon
-- 50g cornflour
-- Salt and black pepper
-- Eggs
-- Dijon mustard
-- Oil
+- almonds
+- zest of a lemon
+- cornflour
+- salt and black pepper
+- eggs
+- dijon mustard
+- oil
 
 ## Steps
 - Zest a lemon.
