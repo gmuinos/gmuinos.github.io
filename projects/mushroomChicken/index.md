@@ -13,13 +13,21 @@
 - Keep boiling until almost a glaze
 - Blitz with lemon zest
 
-# Tomatoe sauce
+# Tomato sauce
 - Take some of the already made tomato sauce and mix it with corn starch
 - Mix with rest of sauce
 - Bring everything to a boil
 
-# Edamame
-- Make edamame
+# Green beans
+- Boil water with salt
+- Chop ends of the green beans
+- Boil the beans for three minutes
+- Chop garlic
+- Rinse in cold water
+- Heat a skillet with butter
+- Add garlic
+- Add beans
+- Add salt and pepper
 
 # Chicken
 - Start from cold pan
