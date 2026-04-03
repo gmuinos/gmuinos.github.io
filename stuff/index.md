@@ -37,31 +37,7 @@
     \end{enumerate}
 ```
 
-### Almond crusted chicken schnitzel
 
-Traditionally, schnitzels are coated in crisp breadcrumbs, but this delicious version using almonds and cornflour makes this nuttily delicious and suitable for anyone avoiding gluten.
-
-Prep 5 min
-Cook 45 min
-Serves 4
-
-4 small boneless, skinless chicken breasts
-50g parmesan, roughly chopped
-250g blanched almonds
-Zest of 1 lemon
-50g cornflour
-Sea salt and black pepper
-2 eggs, lightly beaten
-1 tbsp dijon mustard
-Lemon wedges, to serve
-
-Put a chicken breast between two sheets of baking paper, then use a rolling pin to beat the chicken until it’s about 1.5cm thick all over. Repeat with the remaining chicken breasts.
-
-Put the parmesan in a food processor and blitz until finely chopped. Add the almonds and blitz again until you have a coarse crumb. Transfer to a shallow bowl and stir in the lemon zest.
-
-Place the cornflour in a separate shallow bowl and season generously. Combine the eggs, mustard, and a tablespoon of water in a shallow bowl and whisk to combine. Dust the chicken evenly in cornflour, shake off any excess, then dip into the egg mixture and press into the almond mixture, coating evenly. Place on a baking tray lined with baking paper.
-
-To cook the schnitzels, put a large non-stick frying pan over a medium heat, then pour in 1cm oil. When the oil is hot, fry two schnitzels for five or six minutes on each side, until golden and cooked through. Repeat with the remaining schnitzels, using a little more oil if needed. Serve with lemon wedges, salad, some potatoes or a side of pickles.
 
 
 
