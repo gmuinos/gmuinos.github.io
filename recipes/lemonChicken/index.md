@@ -30,3 +30,5 @@
 - Add butter and lemon zest, stirling to emulsionante the sauce.
 - Return the chicken to skillet and spoon the sauce over the chicken.
 - Garnish with parley.
+
+Based on [this](https://www.cookingclassy.com/lemon-butter-chicken/) recipe.
