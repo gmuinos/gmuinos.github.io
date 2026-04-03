@@ -4,7 +4,7 @@
 - [Lasagna](./recipes/lasagna/)
 - [Potato Omelette](./recipes/potatoOmelette/)
 - [Neapolitan Pizza](./recipes/pizza/)
-- [Almond Schnitzel](./almondChicken/)
+- [Almond Schnitzel](./recipes/almondChicken/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
