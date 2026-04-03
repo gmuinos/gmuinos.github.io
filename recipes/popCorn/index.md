@@ -1,14 +1,14 @@
 # Popcorn
 
 ## Ingredients
-- Popcorn
+- Corn
 - Salt
 - Some fat
-> Neutral oil is better if in doubt. This recipe is too warm for olive oil. Butter takes the profile of butter.
+  > Neutral oil is better if in doubt. This recipe is too warm for olive oil. Butter takes the profile of butter.
 
 ## Steps
 - In a pot, add a layer of oil and two corns.
-> The thickness of the layer should be a bit less than the height of the laid-down corns.
+  > The thickness of the layer should be a bit less than the height of the laid-down corns.
 - Heat the pot at medium or medium-high heat.
 - Once both corns have popped, set them aside and turn the heat off.
 - Add the rest of the corn to the pot until it fills the bottom of the pot.
