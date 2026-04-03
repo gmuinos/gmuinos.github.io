@@ -3,7 +3,8 @@
 - [Brasato al Barolo](./recipes/brasato/)
 - [Lasagna](./recipes/lasagna/)
 - [Potato Omelette](./recipes/potatoOmelette/)
-- [Neapolitan Pizza](./recipes/pizza/) 
+- [Neapolitan Pizza](./recipes/pizza/)
+- [Almond Schnitzel](./almondChicken/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
