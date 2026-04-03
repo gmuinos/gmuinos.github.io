@@ -4,4 +4,3 @@
 - Star anise in onions
 - When reverse-searing, cut inmediatelly.
 - Bakers percentage is a ratio.
-- Jasmine clove lime
