@@ -5,8 +5,6 @@
 - Orange chicken
 - Black garlic puree.
 - Oeufs en cocotte: eggs with cammebert, chives, spinach, cream cheese, and foccaccia stiks with tomato jam.
-- Zarrangollo
-- Chicken Soup
 - Churros de Pescado
 - Mojo Rojo
 - Mojo Verde
@@ -23,12 +21,4 @@
 
 - Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
 - Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
-
-
-- Unique beer styles: Smoked German, Oud Bruin, Brett, Braggot, Freezed-distilled 
-
-
-
-
-
 
