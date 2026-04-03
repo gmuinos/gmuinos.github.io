@@ -1,6 +1,6 @@
 # Crunchy Caesar Salad
 
-### Ingredients for the salad
+## Ingredients for the salad
 - Endive
 - Caesar dressing
 - Eggs
@@ -33,7 +33,7 @@
 - Bring water to a boil for the eggs. Cook the eggs.
 ### Caesar Dressing
 Either buy or make with [this](https://www.onceuponachef.com/recipes/caesar-salad-dressing.html) recipe as an example:
-  - Whisk everything together.
+  - Whisk every dressing ingredient.
   - Check and correct.
 - Cut off the green part of the endive, place in a colander, rinse, and let drain.
 - Wash the cherry tomatoes and cut them in half
