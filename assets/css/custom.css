@@ -1,8 +1,18 @@
-
 .shell {
-  max-width: 1200px;
+  max-width: 1200px !important;
+  width: 100% !important;
 }
 
 .inner {
-  max-width: 1200px;
+  max-width: 1200px !important;
+  width: 100% !important;
+}
+
+body {
+  max-width: none !important;
+}
+
+#main_content {
+  max-width: 1200px !important;
+  width: 100% !important;
 }
