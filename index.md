@@ -27,6 +27,7 @@
 
 # [Ideas I want to remember](./ideas/)
 
+# [Today](./projects/mushroomChicken/)
 <!--
 # Celebrations
 
