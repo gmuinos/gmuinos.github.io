@@ -1,6 +1,6 @@
 # Fried Rice
 
-This dish is based the recepie of Elizabeth Haigh.
+This dish is based the recipe of Elizabeth Haigh.
 
 ## Ingredients
 For the rice:
@@ -25,7 +25,7 @@ For the dish
 ## Instructions
 
 ### The day before
-Make a *simple* version of **Hainanese** rice with
+Make a simple version of Hainanese rice with
 - chicken stock,
 - garlic,
 - pandan leaves,
