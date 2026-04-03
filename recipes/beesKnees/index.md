@@ -1,11 +1,9 @@
 # The Bee's Knees
 
-Trying something $b+a$ different $\frac{q}{f}$ and see what happens.
-
 ## Ingredients
-- $2$ parts gin
-- $1$ part lemon juice
-- $\frac{1}{2}$ part honey syrup
+- 2 parts gin
+- 1 part lemon juice
+- 1/2 part honey syrup
 
 ## Steps
  - Honey syrup:
