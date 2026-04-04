@@ -8,3 +8,11 @@ div.shell {
   width: 1000px;
   margin: 0 auto;
 }
+
+header {
+  position: relative;
+  z-index: 2;
+  margin: 0 auto;
+  max-width: 1000px;
+  top: 38px;
+}
