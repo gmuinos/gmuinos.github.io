@@ -1,4 +1,4 @@
-remote_theme: jitinnair1/gradfolio
+remote_theme: jekyllt/jasper
 
 plugins:
 - jekyll-remote-theme
