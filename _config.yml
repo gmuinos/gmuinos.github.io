@@ -1,4 +1,4 @@
-remote_theme: TeaGuns/odin
+remote_theme: jitinnair1/gradfolio
 
 plugins:
 - jekyll-remote-theme
