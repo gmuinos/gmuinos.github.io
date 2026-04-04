@@ -1,4 +1,4 @@
-remote_theme: vidhyav656/startbootstrap-stylish-portfolio-jekyll
+remote_theme: TeaGuns/odin
 
 plugins:
 - jekyll-remote-theme
