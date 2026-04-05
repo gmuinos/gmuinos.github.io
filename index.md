@@ -27,9 +27,9 @@
 
 # [Ideas I want to remember](./ideas/)
 
-# [Today](./projects/mushroomChicken/)
 <!--
 # Celebrations
 
 [Looking for Some Color](./projects/lookingForColor/)
+[Today](./projects/mushroomChicken/)
 -->
