@@ -28,6 +28,6 @@
 |Bast|Nevel|Wild ale|2024|✅|✅|✅|✅|🔶|<details>Birch bark, pine tops, and blackthorn branches</details>|
 |Bast|Nevel|Wild ale|2024|✅|✅|✅|✅|🔶|<details>Birch bark, pine tops, and blackthorn branches</details>|
 |Billiard|Frontaal|Stout|2021|✅|✅|✅|✅|✅|Oatmeal|
-|À l'ancienne|Tilquin|Wild grape ale|2021|✅|✅|✅|✅|✅|Riesling|
+|À l'ancienne|Tilquin|Wild grape ale|2021|✅|✅|✅|✅|✅|Riesling   |
 
 
