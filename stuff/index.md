@@ -24,3 +24,25 @@
 
 - Jasmine clove lime
 
+First
+
+This is a sentence with a note *(this is the note)*.
+
+Second
+
+This is a sentence with a <span title="This appears on hover">note</span>.
+
+Third
+
+This is a sentence with a note.
+
+<details>
+<summary>See note</summary>
+This is the note text.
+</details>
+
+Fourth
+
+This is a sentence with a note<sup title="This is the note">1</sup>.
+
+
