@@ -45,4 +45,13 @@ Fourth
 
 This is a sentence with a note<sup title="This is the note">1</sup>.
 
+Fifth
+
+<p onclick="this.nextElementSibling.style.display='block'">
+  Click to see note
+</p>
+<div style="display:none;">
+  This is the note text.
+</div>
+
 
