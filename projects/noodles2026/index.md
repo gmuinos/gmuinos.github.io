@@ -1,3 +1,13 @@
+## Char kway teow
+https://www.seriouseats.com/char-kway-teow-recipe-11815985
+
+## Mee krob
+https://youtu.be/s_mpITQ77_s
+https://youtu.be/7j6tMNy806A
+
+## Hokkien mee
+--
+
 # Hokkien mee
 Based on https://www.youtube.com/shorts/AXK_oQ5F4FI?feature=share
 
