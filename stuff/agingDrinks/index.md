@@ -18,16 +18,16 @@
 
 |Beer|Brewery|Style|Year|Notes|2026|2027|2028|2029|2030|
 |-|-|-|-|-|-|-|-|-|-|
-|Old foghorn|Anchor|Barley wine|2021||✅|🔶|🔶|🔶|🔶|
-|Billiard|Frontaal|Stout|2017|Oatmeal|✅|✅|🔶|🔶|🔶|
-|Rust|Nevel|Dry-hopped wild ale|2023||✅|✅|✅|🔶|🔶|
-|Rust|Nevel|Dry-hopped wild ale|2023||✅|✅|✅|🔶|🔶|
-|Sintel|Nevel|Bière de Garde|2024|<details>Roasted willow bark</details>|✅|✅|✅|✅|🔶|
-|Sintel|Nevel|Bière de Garde|2024|<details>Roasted willow bark</details>|✅|✅|✅|✅|🔶|
-|Bast|Nevel|Wild ale|2024|<details>Birch bark, pine tops, and blackthorn branches</details>|✅|✅|✅|✅|🔶|
-|Bast|Nevel|Wild ale|2024|<details>Birch bark, pine tops, and blackthorn branches</details>|✅|✅|✅|✅|🔶|
-|Bast|Nevel|Wild ale|2024|<details>Birch bark, pine tops, and blackthorn branches</details>|✅|✅|✅|✅|🔶|
-|Billiard|Frontaal|Stout|2021|Oatmeal|✅|✅|✅|✅|✅|
-|À l'ancienne|Tilquin|Wild grape ale|2021|Riesling  |✅|✅|✅|✅|✅|
+|Old foghorn|Anchor|Barley wine||2021|✅|🔶|🔶|🔶|🔶|
+|Billiard|Frontaal|Stout|Oatmeal|2017|✅|✅|🔶|🔶|🔶|
+|Rust|Nevel|Wild ale|Dry-hopped|2023|✅|✅|✅|🔶|🔶|
+|Rust|Nevel|Wild ale|Dry-hopped|2023|✅|✅|✅|🔶|🔶|
+|Sintel|Nevel|Bière de Garde|<details>Roasted willow bark</details>|2024|✅|✅|✅|✅|🔶|
+|Sintel|Nevel|Bière de Garde|<details>Roasted willow bark</details>|2024|✅|✅|✅|✅|🔶|
+|Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
+|Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
+|Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
+|Billiard|Frontaal|Stout|Oatmeal|2021|✅|✅|✅|✅|✅|
+|À l'ancienne|Tilquin|Wild ale|Riesling |2021|✅|✅|✅|✅|✅|
 
 
