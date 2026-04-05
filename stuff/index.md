@@ -1,5 +1,5 @@
 
-- https://youtu.be/egbZQKkOJAI?is=sR44ANr1JE9hEhIJ
+
 - Schnitzel
 - Ensaladilla rusa
 - Orange chicken
@@ -23,35 +23,3 @@
 - Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
 
 - Jasmine clove lime
-
-First
-
-This is a sentence with a note *(this is the note)*.
-
-Second
-
-This is a sentence with a <span title="This appears on hover">note</span>.
-
-Third
-
-This is a sentence with a note.
-
-<details>
-<summary>See note</summary>
-This is the note text.
-</details>
-
-Fourth
-
-This is a sentence with a note<sup title="This is the note">1</sup>.
-
-Fifth
-
-<p onclick="this.nextElementSibling.style.display='block'">
-  Click to see note
-</p>
-<div style="display:none;">
-  This is the note text.
-</div>
-
-
