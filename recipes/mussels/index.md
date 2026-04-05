@@ -3,7 +3,7 @@
 ## Ingredients
 - Mussels
 - Hard cider
-- Onion or sharllots
+- Onion or shallots
 - Garlic
 - Parsley
 - Oil
