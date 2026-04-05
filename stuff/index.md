@@ -23,3 +23,5 @@
 - Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
 
 - Jasmine clove lime
+
+- Moscato d'Asti
