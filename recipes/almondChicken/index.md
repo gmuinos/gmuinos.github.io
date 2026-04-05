@@ -1,4 +1,4 @@
-### Almond crusted chicken schnitzel
+### Almond Crusted Chicken Schnitzel
 
 Based on [this](https://www.theguardian.com/food/2025/oct/27/harissa-baked-hake-chicken-schnitzel-recipes-ravinder-bhogal) recipe.
 
