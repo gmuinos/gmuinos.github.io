@@ -24,8 +24,8 @@
 |Billiard|Frontaal|Stout|Oatmeal|2017|✅|✅|🔶|🔶|🔶|
 |Rust|Nevel|Wild ale|Dry-hopped|2023|✅|✅|✅|🔶|🔶|
 |Rust|Nevel|Wild ale|Dry-hopped|2023|✅|✅|✅|🔶|🔶|
-|Sintel|Nevel|Bière de Garde|<details>Roasted willow bark</details>|2024|✅|✅|✅|✅|🔶|
-|Sintel|Nevel|Bière de Garde|<details>Roasted willow bark</details>|2024|✅|✅|✅|✅|🔶|
+|Sintel|Nevel|Bière de Garde|Roasted willow bark|2024|✅|✅|✅|✅|🔶|
+|Sintel|Nevel|Bière de Garde|Roasted willow bark|2024|✅|✅|✅|✅|🔶|
 |Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
 |Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
 |Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
