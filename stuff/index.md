@@ -9,9 +9,7 @@
 - Mojo Rojo
 - Mojo Verde
 - Papas Arrugadas
-- Pearl couscous fish
 - Rosquetes
-- Mussels
 - Panuozzo
 - Potaje de verduras, de lentejas, rancho,...
 
