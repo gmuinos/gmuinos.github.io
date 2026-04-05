@@ -8,7 +8,7 @@
 |Steinberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rotenberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rosenberg|Jakob Schneider|Nahe|Riesling|2024|✅|✅|✅|✅|✅|
-|<details>San Sebastiano allo Zoppo</details>|Tenute Sella|Piedmont|<details>Nebbiolo, vespolina</details>|2006|❄️|✅|✅|✅|✅|
+|San Sebastiano allo Zoppo|Tenute Sella|Piedmont|Nebbiolo, vespolina|2006|❄️|✅|✅|✅|✅|
 |Pauillac|Haut-Bages Monpelou|Pauillac|<details>Cabernet sauvignon, merlot, cabernet franc</details>|2016|❄️|✅|✅|✅|✅|
 |Vinhas Velhas|Luis Pato|Bairrada|Baga|2017|❄️|❄️|✅|✅|✅|
 |Barolo|Prunotto|Barolo|Nebbiolo|2017|❄️|❄️|✅|✅|✅|
