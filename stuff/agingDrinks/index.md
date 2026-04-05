@@ -1,4 +1,6 @@
-# Wines
+# Cellar
+
+## Wines
 
 |Wine|Producer|Place|Grape|Year|2026|2027|2028|2029|2030|
 |-|-|-|-|-|-|-|-|-|-|
@@ -14,7 +16,7 @@
 |5 Stelle Sfursat|Nino Negri|Sforzato di Valtellina|Nebbiolo|2017|❄️|❄️|❄️|❄️|❄️|
 
 
-# Beers
+## Beers
 
 |Beer|Brewery|Style|Year|Notes|2026|2027|2028|2029|2030|
 |-|-|-|-|-|-|-|-|-|-|
@@ -28,6 +30,6 @@
 |Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
 |Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
 |Billiard|Frontaal|Stout|Oatmeal|2021|✅|✅|✅|✅|✅|
-|À l'ancienne|Tilquin|Wild ale|Riesling      |2021|✅|✅|✅|✅|✅|
+|À l'ancienne|Tilquin|Wild ale|Riesling       |2021|✅|✅|✅|✅|✅|
 
 
