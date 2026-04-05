@@ -1,4 +1,4 @@
-# Main dishes
+# Main
 - [Fried Rice](./recipes/friedRice/)
 - [Brasato al Barolo](./recipes/brasato/)
 - [Lasagna](./recipes/lasagna/)
