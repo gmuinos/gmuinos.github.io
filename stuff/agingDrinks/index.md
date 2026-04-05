@@ -21,6 +21,7 @@
 |Beer|Brewery|Style|Year|Notes|2026|2027|2028|2029|2030|
 |-|-|-|-|-|-|-|-|-|-|
 |Old foghorn|Anchor|Barley wine||2021|✅|🔶|🔶|🔶|🔶|
+|À l'ancienne|Tilquin|Wild ale|Riesling        |2021|✅|🔶|🔶|🔶|🔶|
 |Billiard|Frontaal|Stout|Oatmeal|2017|✅|✅|🔶|🔶|🔶|
 |Rust|Nevel|Wild ale|Dry-hopped|2023|✅|✅|✅|🔶|🔶|
 |Rust|Nevel|Wild ale|Dry-hopped|2023|✅|✅|✅|🔶|🔶|
@@ -30,6 +31,3 @@
 |Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
 |Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
 |Billiard|Frontaal|Stout|Oatmeal|2021|✅|✅|✅|✅|✅|
-|À l'ancienne|Tilquin|Wild ale|Riesling        |2021|✅|✅|✅|✅|✅|
-
-
