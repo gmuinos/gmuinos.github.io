@@ -1,13 +1,3 @@
----
-layout: default
----
-
-<style>
-.inner {
-  max-width: 1200px;
-}
-</style>
-
 # Wines
 
 |Wine|Producer|Place|Grape|Year|2026|2027|2028|2029|2030|
