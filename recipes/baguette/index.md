@@ -1,3 +1,6 @@
+---
+---
+
 # Simplified Baguette-style Bread
 
 This recipe broadly follows [this video](https://youtu.be/A-QvjTmSJyY).
