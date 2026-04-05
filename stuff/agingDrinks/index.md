@@ -1,7 +1,15 @@
+---
+layout: default
+---
+
+<style>
+.inner {
+  max-width: 1200px;
+}
+</style>
+
 # Wines
 
-<div style="overflow-x: auto;">
-  
 |Wine|Producer|Place|Grape|Year|2026|2027|2028|2029|2030|
 |-|-|-|-|-|-|-|-|-|-|
 |Qui l’Eût Cru|Gustave Lorentz|Alsace|Gewürztraminer, pinot gris, sylvaner|2024|✅|🔶|🔶|🔶|🔶|
@@ -15,12 +23,9 @@
 |Barolo|San Silvestro|Barolo|Nebbiolo|2018|❄️|❄️|❄️|❄️|✅|
 |5 Stelle Sfursat|Nino Negri|Sforzato di Valtellina|Nebbiolo|2017|❄️|❄️|❄️|❄️|❄️|
 
-</div>
 
 # Beers
 
-<div style="overflow-x: auto;">
-  
 |Beer|Brewery|Style|Yes|2026|2027|2028|2029|2030|Notes|
 |-|-|-|-|-|-|-|-|-|-|
 |Old foghorn|Anchor|Barley wine|2021|✅|🔶|🔶|🔶|🔶||
@@ -35,5 +40,4 @@
 |Billiard|Frontaal|Stout|2021|✅|✅|✅|✅|✅|Oatmeal|
 |À l'ancienne|Tilquin|Wild grape ale|2021|✅|✅|✅|✅|✅|Riesling|
 
-</div>
 
