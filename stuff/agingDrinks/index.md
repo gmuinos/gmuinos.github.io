@@ -18,7 +18,7 @@
 
 ## Beers
 
-|Beer|Brewery|Style|Year|Notes|2026|2027|2028|2029|2030|
+|Beer|Brewery|Style|Notes|Year|2026|2027|2028|2029|2030|
 |-|-|-|-|-|-|-|-|-|-|
 |Old foghorn|Anchor|Barley wine||2021|✅|🔶|🔶|🔶|🔶|
 |À l'ancienne|Tilquin|Wild ale|Riesling        |2021|✅|🔶|🔶|🔶|🔶|
