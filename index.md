@@ -7,6 +7,7 @@
 - [Almond Schnitzel](./recipes/almondChicken/)
 - [Fish with Couscous](./recipes/fishCouscous/)
 - [Lemon Butter Chicken](./recipes/lemonChicken/)
+- [Cider Mussels](./recipes/mussels/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
