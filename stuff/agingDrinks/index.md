@@ -2,7 +2,7 @@
 
 |Wine|Producer|Place|Grape|Year|2026|2027|2028|2029|2030|
 |-|-|-|-|-|-|-|-|-|-|
-|Qui l’Eût Cru|Gustave Lorentz|Alsace|Gewürztraminer, pinot gris, sylvaner|2024|✅|🔶|🔶|🔶|🔶|
+|Qui l’Eût Cru|Gustave Lorentz|Alsace|<details><summary></summary>Gewürztraminer, pinot gris, sylvaner</details>|2024|✅|🔶|🔶|🔶|🔶|
 |Steinberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rotenberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rosenberg|Jakob Schneider|Nahe|Riesling|2024|✅|✅|✅|✅|✅|
