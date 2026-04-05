@@ -20,8 +20,8 @@
 |-|-|-|-|-|-|-|-|-|-|
 |Old foghorn|Anchor|Barley wine|2021||✅|🔶|🔶|🔶|🔶|
 |Billiard|Frontaal|Stout|2017|Oatmeal|✅|✅|🔶|🔶|🔶|
-|Rust|Nevel|Dry-hopped wild ale|2023||✅|✅|✅|🔶|🔶||
-|Rust|Nevel|Dry-hopped wild ale|2023||✅|✅|✅|🔶|🔶||
+|Rust|Nevel|Dry-hopped wild ale|2023||✅|✅|✅|🔶|🔶|
+|Rust|Nevel|Dry-hopped wild ale|2023||✅|✅|✅|🔶|🔶|
 |Sintel|Nevel|Bière de Garde|2024|<details>Roasted willow bark</details>|✅|✅|✅|✅|🔶|
 |Sintel|Nevel|Bière de Garde|2024|<details>Roasted willow bark</details>|✅|✅|✅|✅|🔶|
 |Bast|Nevel|Wild ale|2024|<details>Birch bark, pine tops, and blackthorn branches</details>|✅|✅|✅|✅|🔶|
