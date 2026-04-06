@@ -3,7 +3,7 @@
 ## Wines
 
 |Wine|Producer|Place|Grape|Year|2026|2027|2028|2029|2030|
-|-|-|-|-|-|-|-|-|-|-|
+|---|---|---|---|---|---|---|---|---|---|
 |Qui l’Eût Cru|Gustave Lorentz|Alsace|<details>Gewürztraminer, pinot gris, sylvaner</details>|2024|✅|🔶|🔶|🔶|🔶|
 |Steinberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rotenberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
@@ -19,7 +19,7 @@
 ## Beers
 
 |Beer|Brewery|Style|Notes|Year|2026|2027|2028|2029|2030|
-|-|-|-|-|-|-|-|-|-|-|
+|---|---|---|---|---|---|---|---|---|---|
 |Old foghorn|Anchor|Barley wine||2021|✅|🔶|🔶|🔶|🔶|
 |À l'ancienne|Tilquin|Wild ale|Riesling        |2021|✅|🔶|🔶|🔶|🔶|
 |Billiard|Frontaal|Stout|Oatmeal|2017|✅|✅|🔶|🔶|🔶|
