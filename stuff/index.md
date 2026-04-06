@@ -23,3 +23,15 @@
 - Jasmine clove lime
 
 - Moscato d'Asti
+
+- Make a sour stout
+
+- Use the black round thing for the chopping
+
+- alt + 0160
+
+- The misterious thing is Italian sausage 
+
+- Nevel, Obscuur 
+
+
