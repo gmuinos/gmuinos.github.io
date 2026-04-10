@@ -24,9 +24,11 @@
 - [Bee's Knees](./recipes/beesKnees/)
 - [Cellar wine and beer](./stuff/agingDrinks/)
 
-## [Links to other recipes](./recipes/links/)
+# Other content
 
-## [Ideas I want to remember](./ideas/)
+[Links to other recipes](./recipes/links/)
+
+[Ideas I want to remember](./ideas/)
 
 <!--
 # Celebrations
