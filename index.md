@@ -22,13 +22,12 @@
 - [Glühwein](./recipes/glühwein/)
 - [Black Velvet](./recipes/blackVelvet/)
 - [Bee's Knees](./recipes/beesKnees/)
-- [Cellar wine and beer](./stuff/agingDrinks/)
 
 # Other content
 
-[Links to other recipes](./recipes/links/)
-
-[Ideas I want to remember](./ideas/)
+- [Cellar wine and beer](./stuff/agingDrinks/)
+- [Links to other recipes](./recipes/links/)
+- [Ideas I want to remember](./ideas/)
 
 <!--
 # Celebrations
