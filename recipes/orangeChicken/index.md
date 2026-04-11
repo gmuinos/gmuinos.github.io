@@ -38,14 +38,22 @@
 
 ## Steps
 
-Cut chicken breasts into a large bite-sized dice. 
+#### Marinating the chicken
+- In a bowl, whisk together the *marinade* ingredients.
+- Cut chicken breasts. 
+- Add chicken chunks to marinade.
+- Marinate for 20 minutes.
 
-In a bowl, whisk together soy, mirin, corn starch, and baking soda. Add chicken chunks and stir to coat. Marinate for 20 minutes. 
+####
+- In a bowl, add from the breading ingredients:
+  - flour, salt, baking soda, corn starch
+- Mix
+- In a third bowl, add around ¼ of this dry mixture
+- In the third bowl add water until loose pancake consistency.
+- Take a few spoons of the batter into the dry bowl (the third into the second)
+- Mix and crumble
+- 
 
-
-Into a 2nd bowl, whisk together 400g ap flour, salt, baking soda and corn starch. In a 3rd bowl, add about ¼ of the dry breading mixture. To that small portion of dry breader, whisk in water, a little at a time, until you’re left with a loose pancake batter texture. 
-
-Back in bowl 2 (with dry breading only), add about 1/4c of the wet breading slurry you just made. Mix and crumble the wet into the dry, creating a dry crumbly texture. 
 
 Grab a 4th bowl and fill it with about 3 cups of AP flour. Add marinated chicken pieces. Mix to coat well on all sides. 
 
