@@ -1,5 +1,7 @@
 # Orange Chicken
 
+> This recipe needs at least four bowls.
+
 ## Ingredients
 
 - 1/2kgr boneless skinless chicken breasts, large diced
@@ -16,25 +18,25 @@
 - 6g baking soda
 - 400g corn starch
 - Water 
-- Additional ap flour (about 350g cups)  
+- Additional ap flour (about 350g)  
 - Neutral oil
 
-#### ORANGE CHICKEN SAUCE 
-- 30g or 2Tbsp neutral, high smoke point oil 
-- 2 cloves garlic, grated 
-- 10g piece ginger, grated 
-- 20g or 4Tbsp scallions, thinly sliced (only about bottom half/2/3 of scallions)
-- 125g or 1/2c chicken stock 
-- 75g or 1/4c mirin
-- 50g or 3Tbsp soy sauce 
-- 10g or 2tsp sesame oil 
-- 50g or 1/4c sugar
-- 25g or 1.5Tbsp rice vinegar 
+#### Sauce 
+- Oil
+- 2 cloves garlic 
+- 10g piece ginger 
+- 20g scalions
+- 125g chicken stock 
+- 75g mirin
+- 50g soy sauce 
+- 10g sesame oil 
+- 50g sugar
+- 25g rice vinegar 
 - Juice of 1 large orange
-- 1tsp orange zest (about 8-10 healthy zests)
+- 1tsp orange zest
 - 5g or 2tsp corn starch
 - Pinch Chile flake
-- Corn starch slurry if needed (2g or 3/4tsp corn starch mixed into 4g water) 
+- Corn starch slurry if needed
 
 ## Steps
 
@@ -44,7 +46,7 @@
 - Add chicken chunks to marinade.
 - Marinate for 20 minutes.
 
-####
+#### The breading
 - In a bowl, add from the breading ingredients:
   - flour, salt, baking soda, corn starch
 - Mix
@@ -52,27 +54,39 @@
 - In the third bowl add water until loose pancake consistency.
 - Take a few spoons of the batter into the dry bowl (the third into the second)
 - Mix and crumble
-- 
+- In a fourth bowl, add 350 gr of flour
 
+#### Preparing the sauce for later
+- Zest the orange
+- Juice the orange
+- Warm a big nonstick pan
+- Chop ginger, garlic, and scallions
+- Sautee them until fragant
+- Kill the heat, add rest of the sauce ingredients for later
 
-Grab a 4th bowl and fill it with about 3 cups of AP flour. Add marinated chicken pieces. Mix to coat well on all sides. 
+#### Cooking the chiken
+- In a big pot, preheat plenty oil until 150 degrees
+- Preheat oven to 80 degrees
+- Add marinated chicken to the only-flour bowl (the fourth one)
+  - Mix
+- Shake excess flour
+- Add chicken to the wet batter (third bowl)
+  - Mix
+- Move into drier mix bowl (second bowl)
+  - Mix
+- Lower them into oil
+- Fry at light golden
+- Remove into a wire rack
+- Incrase oil temperature to 175 degrees
+- Add chicken for around 90 seconds or until golden brown
+- Transfer to wire rack again
+- Transfer to oven
 
-Shake off as much of the ap flour mixture from the chicken as possible, then add chicken into the wet batter in bowl 3. Toss to coat well. 
+#### Sauce and final steps
+- Bring sauce to a simmer
+- Reduce by about half until consistency is thick enough to leave a trail with a spoon (add corn starch slurry if needed)
+- Add cooked nuggets
+- Toss carefully until coating
 
-Now move pieces of wet battered chicken into the craggy dry breader mix (bowl 2). Mix to coat well. Transfer chicken pieces to a tray. 
-
-Preheat large heavy bottomed pot over medium-high heat with about 2qt of neutral oil (or about 2-3”/5-8cm of oil, leaving plenty of room at the top of your pot so oil doesn’t boil over when you add chicken) for 10 min or until oil reaches a temp of 300F/150C. Gently lower breaded chicken into the oil (use a spider to avoid splashing oil). Fry 4-5 min at 300F/150C. 
-
-After 4-5 min or when nuggets are a light blonde golden color, remove from oil and transfer to a wire rack to drain. 
-
-Increase heat under oil pot to medium high to increase oil temp to 350F/175C. Carefully lower once-cooked nuggets back into the oil to cook for about another 90 seconds or until they’ve taken on a nice golden brown color. Transfer onto a wire rack and keep warm in a low oven while you make your orange chicken sauce. 
-
-
-
-To make the sauce, heat a generous squeeze of neutral oil in a large nonstick pan over medium high heat. Add ginger, garlic, and scallions and cook, stirring often, for about a minute until fragrant. 
-
-Whisk together chicken stock, mirin, soy sauce, sesame oil, sugar, rice vin, orange zest and juice and corn starch. Add sauce to pan with ginger/garlic/scallion mixture along with a pinch of chile flakes. Bring to a simmer and reduce sauce by about half - about 2 minutes. Check consistency of sauce at this point. If it’s not thick enough to leave a trail when you run a spoon through it, stir in  a splash of corn starch slurry. Bring back to a boil and check consistency again. 
-
-Add cooked nuggets into pan with sauce. Gently toss to coat, careful not to over work to loosen the breading.
 
 Based on [this](https://www.youtube.com/watch?v=tVlx27mBCmo) recipe.
