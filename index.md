@@ -8,6 +8,7 @@
 - [Fish with Couscous](./recipes/fishCouscous/)
 - [Lemon Butter Chicken](./recipes/lemonChicken/)
 - [Cider Mussels](./recipes/mussels/)
+- [Orange Chicken](./recipes/orangeChicken/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
