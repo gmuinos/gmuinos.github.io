@@ -65,4 +65,6 @@ To make the sauce, heat a generous squeeze of neutral oil in a large nonstick pa
 
 Whisk together chicken stock, mirin, soy sauce, sesame oil, sugar, rice vin, orange zest and juice and corn starch. Add sauce to pan with ginger/garlic/scallion mixture along with a pinch of chile flakes. Bring to a simmer and reduce sauce by about half - about 2 minutes. Check consistency of sauce at this point. If it’s not thick enough to leave a trail when you run a spoon through it, stir in  a splash of corn starch slurry. Bring back to a boil and check consistency again. 
 
-Add cooked nuggets into pan with sauce. Gently toss to coat, careful not to over work to loosen the breading. 
+Add cooked nuggets into pan with sauce. Gently toss to coat, careful not to over work to loosen the breading.
+
+Based on [this](https://www.youtube.com/watch?v=tVlx27mBCmo) recipe.
