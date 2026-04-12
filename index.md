@@ -7,7 +7,7 @@
 - [Almond Schnitzel](./recipes/almondChicken/)
 - [Fish with Couscous](./recipes/fishCouscous/)
 - [Lemon Butter Chicken](./recipes/lemonChicken/)
-  - Variation: [Elf's Nightingale](./elfsNightingale/)
+  - Variation: [Elf's Nightingale](./recipes/elfsNightingale/)
 - [Cider Mussels](./recipes/mussels/)
 - [Orange Chicken](./recipes/orangeChicken/)
 
