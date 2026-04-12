@@ -76,3 +76,5 @@ Brush it with beaten egg and put it in the oven at 180º for approximately 40 or
 When you take it out of the oven, you can brush it with the oil from the sofrito to make it shine.
 
 Let it cool down a little and then eat it.
+
+https://recetastradicionalesdecocina.blogspot.com/2013/10/como-hacer-la-empanada-gallega-de-pulpo.html?m=1
