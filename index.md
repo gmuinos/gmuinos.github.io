@@ -10,6 +10,7 @@
   - Variation: [Elf's Nightingale](./recipes/elfsNightingale/)
 - [Cider Mussels](./recipes/mussels/)
 - [Orange Chicken](./recipes/orangeChicken/)
+- [Empanada](./recipes/empanada/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
