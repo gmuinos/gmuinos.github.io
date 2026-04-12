@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-- 1/2kgr boneless skinless chicken breasts, large diced
+- 1/2kgr chicken breasts
 
 #### Marinade
 - 30g or 2Tbsp soy sauce
@@ -18,7 +18,7 @@
 - 6g baking soda
 - 400g corn starch
 - Water 
-- Additional ap flour (about 350g)  
+- Additional flour (about 350g)  
 - Neutral oil
 
 #### Sauce 
@@ -68,12 +68,12 @@
 - In a big pot, preheat plenty oil until 150 degrees
 - Preheat oven to 80 degrees
 - Add marinated chicken to the only-flour bowl (the fourth one)
-  - Mix
+- Mix
 - Shake excess flour
 - Add chicken to the wet batter (third bowl)
-  - Mix
+- Mix
 - Move into drier mix bowl (second bowl)
-  - Mix
+- Mix
 - Lower them into oil
 - Fry at light golden
 - Remove into a wire rack
