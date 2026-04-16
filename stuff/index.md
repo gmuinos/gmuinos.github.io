@@ -30,8 +30,6 @@
 
 - alt + 0160
 
-- The misterious thing is Italian sausage 
-
 - Nevel, Obscuur
 
 - https://www.baktotaal.nl/
