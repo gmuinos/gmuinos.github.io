@@ -1,7 +1,6 @@
 
 - Schnitzel
 - Ensaladilla rusa
-- Orange chicken
 - Black garlic puree.
 - Oeufs en cocotte: eggs with cammebert, chives, spinach, cream cheese, and foccaccia stiks with tomato jam.
 - Churros de Pescado
@@ -35,5 +34,10 @@
 - https://www.baktotaal.nl/
 
 - Elf's Nightingale (orange butter chicken)
+
+- Once the Leidenfrost effect is reached, reduce the heat to low. Then, add oil and the ingredients.
+- Star anise in onions
+- When reverse-searing, cut inmediatelly.
+- Bakers percentage is a ratio.
 
 
