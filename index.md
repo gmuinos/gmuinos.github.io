@@ -29,7 +29,6 @@
 
 - [Cellar wine and beer](./stuff/agingDrinks/)
 - [Links to other recipes](./recipes/links/)
-- [Ideas I want to remember](./ideas/)
 - [Pizza calculator link](https://www.stadlermade.com/pizza-calculator/)
 
 <!--
