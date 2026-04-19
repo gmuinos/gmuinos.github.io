@@ -44,4 +44,4 @@ Either buy or make with [this](https://www.onceuponachef.com/recipes/caesar-sala
 
 Based on [this](https://www.boerschappen.nl/recepten/Caesar-salade/) recipe.
 
-[^1]: Alternatively, place all the herbs and spices in a skillet with the oil and warm the oil for some minutes. Use a strainer to separate. Keep both. Use the fragant oil for the chickpeas in the oven and add the herbs when removing the chickpeas from the oven.
+[^1]: Alternatively, place all the herbs and spices in a skillet with the oil and warm the oil for some minutes. Use a strainer to separate. Keep both. Use the fragant oil for the chickpeas in the oven and add the herbs when removing the chickpeas from the oven. Trick by Kenji López-Alt.
