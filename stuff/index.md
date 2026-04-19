@@ -40,4 +40,6 @@
 - When reverse-searing, cut inmediatelly.
 - Bakers percentage is a ratio.
 
+- Three stews: beef bourguignon, brasato al Barolo, and cocido/escudella i carn d'olla
+
 
