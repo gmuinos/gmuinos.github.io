@@ -1,3 +1,7 @@
+## Outside
+This year, I had time to improve the gardens but not the table and chairs outside. If you want to use them, you can get the broom from the shed and clean the chairs a bit.
+
+
 ## Internet
 Sometimes, when moving the router, the internet stops working.
 There is an internet card on the table, so you can connect all the devices without moving the router.
