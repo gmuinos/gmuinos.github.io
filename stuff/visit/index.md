@@ -1,3 +1,6 @@
+## It's nicer to shower downstairs
+That's it hehe Downstairs is nicer 
+
 ## Watching things 
 You can move aside the computer screen or turn it on with password 6364 and watch stuff there if you log in on your accounts.
 
