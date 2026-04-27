@@ -18,7 +18,7 @@ Cinamon roll
 
 > **Los cuartillos, Collantes,** Moscatel **, Andalucía**
 
-
+<details>
 Warm up potaoes
 
 Broccoli
@@ -34,4 +34,4 @@ Broccoli
 - Add butter bit by bit
 - Salt and pepper
 - Add herbs
-
+<\details>
