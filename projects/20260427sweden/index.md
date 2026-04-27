@@ -19,10 +19,10 @@ Cinamon roll
 > **Los cuartillos, Collantes,** Moscatel **, Andalucía**
 
 <details>
-Warm up potaoes
-
-Broccoli
-- Add seasoning and oil to the bag directly and shake
+- Warm up potaoes
+- warm up meatballs
+- Broccoli
+- Add seasoning and oil
 - Add to the air fryer 180 for ten mintutes
 - Shake in between
 
