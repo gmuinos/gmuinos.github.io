@@ -9,14 +9,14 @@ Salmon with sandefjordsmør sauce
 
 Meatball in tomatoe sauce with mashed potatoes and broccoli
 
-> Peidra fluida, Vidal, **Listán negro**, Santa Úrsula
+> **Peidra fluida, Vidal,** Listán negro **, Santa Úrsula**
 
 
 ## Kanelbulle
 
 Cinamon roll
 
-> Los cuartillos, Collantes, **Moscatel**, Andalucía
+> **Los cuartillos, Collantes,** Moscatel **, Andalucía**
 
 
 Warm up potaoes
