@@ -1,6 +1,5 @@
-## Salmon with 
+## Salmon with Sandefjordsmør
 - Salmon
-- Dill
 
 > Albariño 
 
@@ -16,3 +15,19 @@
 - Cardamon
 
 > Moscato d'Asti
+
+## Sandefjordsmør
+Unsalted butter
+Cream
+Parsley
+Dill
+Lemons
+
+- Chop herbs
+- Reduce lemon
+- Add cream
+- Reduce cream
+- Add butter bit by bit
+- Salt and pepper
+- Add herbs
+
