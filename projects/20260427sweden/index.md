@@ -2,7 +2,7 @@
 
 Salmon with sandefjordsmør sauce
 
-> Albariño, Immortalis, **Albariño**, Rias Baixas
+> **Albariño, Immortalis,** Albariño**, Rias Baixas**
 
 
 ## Köttbullar med potatismos och broccoli
