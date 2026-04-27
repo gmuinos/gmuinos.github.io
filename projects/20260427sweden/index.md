@@ -1,36 +1,32 @@
-## Laks med Sandefjordsmør
+### Laks med Sandefjordsmør
 
 Salmon with sandefjordsmør sauce
 
-> Albariño
+> Albariño, Immortalis, **Albariño**, Rias Baixas
 
-## Köttbullar med potatismos och broccoli
+
+### Köttbullar med potatismos och broccoli
 
 Meatball in tomatoe sauce with mashed potatoes and broccoli
 
-> Tenerife
+> Peidra fluida, Vidal, **Listán negro**, Santa Úrsula
 
 
-## Kanelbulle
+### Kanelbulle
 
 Cinamon roll
 
-> Moscato d'Asti
+> Los cuartillos, Collantes, **Moscatel**, Andalucía
 
 
-<!--
+Warm up potaoes
+
 Broccoli
 - Add seasoning and oil to the bag directly and shake
 - Add to the air fryer 180 for ten mintutes
 - Shake in between
 
 ## Sandefjordsmør
-Unsalted butter
-Cream
-Parsley
-Dill
-Lemons
-
 - Chop herbs
 - Reduce lemon
 - Add cream
@@ -38,4 +34,4 @@ Lemons
 - Add butter bit by bit
 - Salt and pepper
 - Add herbs
---/>
+
