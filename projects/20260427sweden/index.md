@@ -1,20 +1,28 @@
-## Salmon with Sandefjordsmør
-- Salmon
+## Laks med Sandefjordsmør
 
-> Albariño 
+Salmon with sandefjordsmør sauce
 
-## Meatballs
-- Potatoes
-- Brocoli
+> Albariño
 
-> Tenerife or young mencía
+## Köttbullar med potatismos och broccoli
+
+Meatball in tomatoe sauce with mashed potatoes and broccoli
+
+> Tenerife
 
 
-## Cinamon roll
-- Cinamon roll
-- Cardamon
+## Kanelbulle
+
+Cinamon roll
 
 > Moscato d'Asti
+
+
+<!--
+Broccoli
+- Add seasoning and oil to the bag directly and shake
+- Add to the air fryer 180 for ten mintutes
+- Shake in between
 
 ## Sandefjordsmør
 Unsalted butter
@@ -30,4 +38,4 @@ Lemons
 - Add butter bit by bit
 - Salt and pepper
 - Add herbs
-
+--/>
