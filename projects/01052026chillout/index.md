@@ -8,9 +8,9 @@
 - Humus con zanahoria
 
 ##### Bebida
-- Pils
-- Pale ale
-- IPA
+1. Pils
+1. Pale ale
+1. IPA
 
 ## Autoestima hasta el techo
 
@@ -18,10 +18,10 @@
 - Focaccia 
 
 ##### Bebida
-- Farmhouse
-- Lambic
-- Gewurstraminer
-- Chianti
+1. Farmhouse
+1. Lambic
+1. Gewurstraminer
+1. Chianti
 
 ## Perreo hasta el piso 
 
@@ -29,10 +29,10 @@
 - Nuggets 
 
 ##### Bebida
-- El Aviador
-- Dubble
-- Benjé
-- Stout
+1. El Aviador
+1. Dubble
+1. Benjé
+1. Stout
 
 # Listado 
 
