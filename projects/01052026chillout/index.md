@@ -1,23 +1,23 @@
-# Chillout Bertabriel
-El regreso. Más Sexynas que nunca.
+# BERTABRIEL'S CHILLOUT
+**El regreso. Más Sexynas que nunca.**
 
 ## Calentando motores 
 
-### Comida
+#### Comida
 - Papas fritas
 - Humus con zanahoria
 
-### Bebida
+#### Bebida
 - Pils
 - Pale ale
 - IPA
 
 ## Autoestima hasta el techo
 
-### Comida
+#### Comida
 - Focaccia 
 
-### Bebida
+#### Bebida
 - Farmhouse
 - Lambic
 - Gewurstraminer
