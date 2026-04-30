@@ -36,7 +36,6 @@
 
 ## Hasta el techo
 
-- ??
 - nuggets
 
 > agria 1
