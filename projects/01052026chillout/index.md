@@ -1,3 +1,42 @@
+# Chill out Bertabriel
+El regreso. Más Sexynas que nunca.
+
+## El calentamiento 
+
+- Papas fritas
+- Humus con zanahoria
+
+> Pils
+>
+> Pale ale
+>
+> IPA
+
+## Hasta el techo
+
+- Focaccia 
+
+> Farmhouse 
+>
+> Lambic
+>
+> Gewurstraminer
+>
+> Chianti
+
+## Bajando hasta el piso 
+
+- Nuggets 
+
+> El Aviador
+>
+> Dubble
+>
+> Benjé
+>
+> Stout
+
+# Listado 
 
 ## Comida
 - nuggets 
@@ -20,40 +59,3 @@
 - Gewurstraminer
 - Chianti
 - Benjé
-
-
-
-## El calentamiento 
-
-- papas fritas
-- humus con zanahoria
-
-> Pils
->
-> Pale ale
->
-> IPA
-
-## Hasta el techo
-
-- nuggets
-
-> agria 1
->
-> agria 2
->
-> Gewurstraminer
->
-> chianti
-
-## Bajando hasta el piso 
-
-- focaccia
-
-> Aviador
->
-> Dubble
->
-> Benjé
->
-> Stout
