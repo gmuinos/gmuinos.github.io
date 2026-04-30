@@ -1,40 +1,38 @@
 # Chillout Bertabriel
 El regreso. Más Sexynas que nunca.
 
-## El calentamiento 
+## Calentando motores 
 
+### Comida
 - Papas fritas
 - Humus con zanahoria
 
-> Pils
->
-> Pale ale
->
-> IPA
+### Bebida
+- Pils
+- Pale ale
+- IPA
 
-## Hasta el techo
+## Autoestima hasta el techo
 
+### Comida
 - Focaccia 
 
-> Farmhouse 
->
-> Lambic
->
-> Gewurstraminer
->
-> Chianti
+### Bebida
+- Farmhouse
+- Lambic
+- Gewurstraminer
+- Chianti
 
-## Bajando hasta el piso 
+## Perreo hasta el piso 
 
+#### Comida
 - Nuggets 
 
-> El Aviador
->
-> Dubble
->
-> Benjé
->
-> Stout
+#### Bebida
+- El Aviador
+- Dubble
+- Benjé
+- Stout
 
 # Listado 
 
