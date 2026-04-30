@@ -46,7 +46,7 @@
 >
 > chianti
 
-## Bajando hasta el suelo
+## Bajando hasta el piso 
 
 - focaccia
 
