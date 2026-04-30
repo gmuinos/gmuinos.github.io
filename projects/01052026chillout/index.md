@@ -3,21 +3,21 @@
 
 ## Calentando motores 
 
-#### Comida
+##### Comida
 - Papas fritas
 - Humus con zanahoria
 
-#### Bebida
+##### Bebida
 - Pils
 - Pale ale
 - IPA
 
 ## Autoestima hasta el techo
 
-#### Comida
+##### Comida
 - Focaccia 
 
-#### Bebida
+##### Bebida
 - Farmhouse
 - Lambic
 - Gewurstraminer
@@ -25,10 +25,10 @@
 
 ## Perreo hasta el piso 
 
-#### Comida
+##### Comida
 - Nuggets 
 
-#### Bebida
+##### Bebida
 - El Aviador
 - Dubble
 - Benjé
