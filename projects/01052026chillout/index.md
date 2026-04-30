@@ -1,9 +1,9 @@
+### ㅤ
+
 # BERTABRIEL'S CHILLOUT
 **<center>El regreso. Más Sexynas que nunca.</center>**
 
 ## Calentando motores 
-
-### ㅤ
 
 #### Comida
 - Papas fritas
@@ -16,10 +16,10 @@
 
 ## Autoestima hasta el techo
 
-##### Comida
+#### Comida
 - Focaccia 
 
-##### Bebida
+#### Bebida
 1. Farmhouse
 1. Lambic
 1. Gewurstraminer
@@ -27,10 +27,10 @@
 
 ## Perreo hasta el piso 
 
-##### Comida
+#### Comida
 - Nuggets 
 
-##### Bebida
+#### Bebida
 1. El Aviador
 1. Dubble
 1. Benjé
