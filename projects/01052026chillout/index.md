@@ -6,8 +6,9 @@
 ## Calentando motores 
 
 #### Comida
-- Papas fritas
+- Focaccia 
 - Humus con zanahoria
+
 
 #### Bebida
 1. Pils
@@ -17,7 +18,8 @@
 ## Autoestima hasta el techo
 
 #### Comida
-- Focaccia 
+- Papas Hasselback
+- Fuet
 
 #### Bebida
 1. Farmhouse
@@ -28,7 +30,7 @@
 ## Perreo hasta el piso 
 
 #### Comida
-- Nuggets 
+- Nuggets
 
 #### Bebida
 1. El Aviador
