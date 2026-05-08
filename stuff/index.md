@@ -41,5 +41,7 @@
 - Bakers percentage is a ratio.
 
 - Three stews: beef bourguignon, brasato al Barolo, and cocido
+- Empanadillas
+- Butter sauce
 
 
