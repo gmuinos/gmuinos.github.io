@@ -1,7 +1,7 @@
 ## Entrante
 
 ## Principal
-Pescado al horno con charlotas al horno con salsa Sandefjordsmør y puré de algo
+Pescado al horno con charlotas al horno con salsa Sandefjordsmør y Cauliflower purée
 
 ## Postre
 
