@@ -2,9 +2,11 @@
 
 ## Starter
 
-Some food
+Charcuterie, cheese, and snacks
 
-> A wine
+==Sangiovese==
+
+> ==Sangiovese==, Syrah, and Bourdeaux
 
 ## Main
 
