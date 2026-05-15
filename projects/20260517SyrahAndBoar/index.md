@@ -4,9 +4,9 @@
 
 Charcuterie, cheese, and snacks
 
-==Sangiovese==
+<mark>Sangiovese</mark>
 
-> ==Sangiovese==, Syrah, and Bourdeaux
+> <mark>Sangiovese</mark>, Syrah, and Bourdeaux
 
 ## Main
 
