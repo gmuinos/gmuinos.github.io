@@ -2,15 +2,18 @@
 
 ## Starter
 
-Some food with
+Some food
 
-> Two other wines
+> A wine
 
 ## Main
 
-Boar stew
+Boar stew with polenta and asparagus  
 
 > Syrah
+> 
+>> contrasting against:
+>> barbera and pinot noir
 
 ## Desserts
 
