@@ -12,8 +12,7 @@ Boar stew with polenta and asparagus
 
 > Syrah
 > 
->> contrasting against:
->> barbera and pinot noir
+>> vs sangiovese and bourdeaux or barbera, pinot noir, gamay
 
 ## Desserts
 
