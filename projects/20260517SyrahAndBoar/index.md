@@ -2,7 +2,7 @@
 
 ## Starter
 
-Charcuterie, cheese, and snacks
+Charcuterie and cheese
 
 > ***Sangiovese***, Syrah, and Bourdeaux
 
@@ -14,6 +14,6 @@ Boar stew with polenta and asparagus
 
 ## Desserts
 
-Chocolate something
+Dark chocolates
 
 > Sangiovese, Syrah, and ***Bourdeaux***
