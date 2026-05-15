@@ -8,7 +8,7 @@ Charcuterie and cheese
 
 ## Main
 
-Boar stew with polenta and asparagus  
+Wild boar stew with polenta and asparagus  
 
 > Sangiovese, ***Syrah***, and Bourdeaux
 
