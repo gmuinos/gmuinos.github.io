@@ -2,18 +2,10 @@
 Quesos y charcutería
 
 ## Principal
-Pescado al horno con charlotas al horno con salsa Sandefjordsmør y Cauliflower purée
+Pescado al horno con charlotas al horno con [beurre blanc](https://www.seriouseats.com/beurre-blanc-recipe-7643412) y [cauliflower purée](https://www.seriouseats.com/rich-nutty-roasted-cauliflower-puree-recipe)
+Arroz?
+Riesling?
 
 ## Postre
 
 
-## Sandefjordsmør
-- Chop herbs
-- Reduce lemon
-- Add cream
-- Reduce cream
-- Add butter bit by bit
-- Salt and pepper
-- Add herbs
-
-Crunchy Caesar Salad?
