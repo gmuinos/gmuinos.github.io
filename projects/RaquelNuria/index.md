@@ -1,12 +1,11 @@
 ## Entrante
+Quesos y charcutería
 
 ## Principal
 Pescado al horno con charlotas al horno con salsa Sandefjordsmør y Cauliflower purée
 
 ## Postre
 
-
-Crunchy Caesar Salad
 
 ## Sandefjordsmør
 - Chop herbs
@@ -16,3 +15,5 @@ Crunchy Caesar Salad
 - Add butter bit by bit
 - Salt and pepper
 - Add herbs
+
+Crunchy Caesar Salad?
