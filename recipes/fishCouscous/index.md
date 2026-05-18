@@ -10,12 +10,12 @@ One-pan recipe based on [this](https://www.boerschappen.nl/recepten/Parelcouscou
 - Pearl couscous
 - Onion
 - Carrot
-- Root parsley
+- Parsnip 
 
 ## Steps
 - Chop onion
 - Sauté onion
-- Chop carrot and root parsley
+- Chop carrot and parsnip
 - Add both to the skillet
 - Add harissa after soften
 - Add couscous
