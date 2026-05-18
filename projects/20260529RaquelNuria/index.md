@@ -6,6 +6,8 @@ Pescado al horno con charlotas al horno con [beurre blanc](https://www.seriousea
 Arroz?
 Riesling?
 
+better use velute and add pickled shallots 
+
 ## Postre
 
 
