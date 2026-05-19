@@ -3,7 +3,7 @@ Cheese and charcuterie
 
 ### Principal
 
-Fish on veloute and rice with pickled green beans on cauliflower puree
+Fish over veloute and rice with pickled green beans on cauliflower puree
 
 ### Postre
 
