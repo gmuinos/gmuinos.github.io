@@ -10,7 +10,12 @@ Fish on veloute and rice with pickled green beans on cauliflower puree
 Buy something
 
 ## Shopping list
-
+- Dill
+- Green beans
+-
+- fish
+- 
+- cauliflower 
 
 ## Steps
 
