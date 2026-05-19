@@ -2,11 +2,12 @@
 Quesos y charcutería
 
 ## Principal
-Pescado al horno con charlotas al horno con [beurre blanc](https://www.seriouseats.com/beurre-blanc-recipe-7643412) y [cauliflower purée](https://www.seriouseats.com/rich-nutty-roasted-cauliflower-puree-recipe)
-Arroz?
-Riesling?
 
-better use velute and add pickled shallots 
+Fish on veloute and rice with pickled green beans on cauliflower puree
+
+Make the rice the day before so it is separated. Then fry it the same day.
+
+
 
 ## Postre
 
