@@ -9,7 +9,6 @@
 - [Lemon Butter Chicken](./recipes/lemonChicken/)
 - [Cider Mussels](./recipes/mussels/)
 - [Orange Chicken](./recipes/orangeChicken/)
-- [Empanada](./recipes/empanada/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
