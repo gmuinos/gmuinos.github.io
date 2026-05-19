@@ -3,7 +3,7 @@ Cheese and charcuterie
 
 ### Principal
 
-Fish over [veloute](https://gmuinos.github.io/recipes/velute/) and rice with pickled green beans on cauliflower puree
+Fish over [veloute](https://gmuinos.github.io/recipes/velute/) and rice with pickled green beans on [cauliflower puree](https://gmuinos.github.io/recipes/cauliflowerPuree/)
 
 ### Postre
 
@@ -16,6 +16,7 @@ Buy something
 - fish
 - 
 - cauliflower
+- thyme
 - 
 - vegetable stock or fish stock
 
