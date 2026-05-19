@@ -3,7 +3,7 @@ Cheese and charcuterie
 
 ### Principal
 
-Fish over veloute and rice with pickled green beans on cauliflower puree
+Fish over [veloute](https://gmuinos.github.io/recipes/velute/) and rice with pickled green beans on cauliflower puree
 
 ### Postre
 
@@ -28,12 +28,5 @@ Buy something
 
 #### Morning:
 
-#### Steps
-
-## Postre
-
-one parte butter, one part flour, 15 parts stock.
-
-the supreme variation is adding some cream and lemon juice
 
 
