@@ -18,6 +18,7 @@
 - [Quick-pickled Vegetables](./recipes/quickPickle/)
 - [Popcorn](./recipes/popCorn/)
 - [Crunchy Chickpea Caesar Salad](./recipes/crunchyCaesar/)
+- [Velouté](./recipes/velute)
 
 # Drinks
 - [Iced Coffee](./recipes/icedCoffee/)
