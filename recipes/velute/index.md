@@ -1,6 +1,6 @@
 # Velouté
 
-## Ingredients and proportions by volumen
+## Ingredients and proportions by volume
 -  1 x Butter
 -  1 x Flour
 - 15 x Stock
