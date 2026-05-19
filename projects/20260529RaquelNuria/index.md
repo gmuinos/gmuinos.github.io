@@ -1,19 +1,20 @@
 ### Starter
 Cheese and charcuterie
 
-### Principal
+### Main
 
 Fish over [veloute](https://gmuinos.github.io/recipes/velute/) and rice with pickled green beans on [cauliflower puree](https://gmuinos.github.io/recipes/cauliflowerPuree/)
 
-### Postre
+### Dessert
 
 Buy something
 
 ## Shopping list
 - Dill
+- 
 - Green beans
 -
-- fish
+- Fish
 - 
 - cauliflower
 - thyme
