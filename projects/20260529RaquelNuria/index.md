@@ -15,7 +15,9 @@ Buy something
 -
 - fish
 - 
-- cauliflower 
+- cauliflower
+- 
+- vegetable stock or fish stock
 
 ## Steps
 
@@ -29,5 +31,9 @@ Buy something
 #### Steps
 
 ## Postre
+
+one parte butter, one part flour, 15 parts stock.
+
+the supreme variation is adding some cream and lemon juice
 
 
