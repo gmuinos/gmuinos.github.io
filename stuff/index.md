@@ -23,13 +23,11 @@
 
 - Moscato d'Asti
 
-- Make a sour stout
+- Make a sour stout such as - Nevel, Obscuur, which was made with kwets (Prunus domestica ssp. domestica) 
 
 - Use the black round thing for the chopping
 
 - alt + 0160
-
-- Nevel, Obscuur
 
 - https://www.baktotaal.nl/
 
