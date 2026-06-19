@@ -9,6 +9,7 @@
 - [Lemon Butter Chicken](./recipes/lemonChicken/)
 - [Cider Mussels](./recipes/mussels/)
 - [Orange Chicken](./recipes/orangeChicken/)
+- [Green Curry Fried Rice](./recipes/greenCurryFriedRice/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
