@@ -10,6 +10,7 @@
 - [Cider Mussels](./recipes/mussels/)
 - [Orange Chicken](./recipes/orangeChicken/)
 - [Green Curry Fried Rice](./recipes/greenCurryFriedRice/)
+- [Empanada](./recipes/empanada/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
