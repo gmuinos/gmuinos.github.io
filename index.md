@@ -5,16 +5,16 @@
 - [Lasagna](./recipes/lasagna/)
 - [Empanada](./recipes/empanada/)
 
-## Fried Rice
+### Fried Rice
 - [Fried Rice](./recipes/friedRice/)
 - [Green Curry Fried Rice](./recipes/greenCurryFriedRice/)
 
-## Chicken
+### Chicken
 - [Almond Schnitzel](./recipes/almondChicken/)
 - [Lemon Butter Chicken](./recipes/lemonChicken/)
 - [Orange Chicken](./recipes/orangeChicken/)
-- 
-## Fish
+
+### Fish
 - [Fish with Couscous](./recipes/fishCouscous/)
 - [Cider Mussels](./recipes/mussels/)
 
@@ -37,7 +37,6 @@
 - [Bee's Knees](./recipes/beesKnees/)
 
 # Other content
-
 - [Cellar wine and beer](./stuff/agingDrinks/)
 - [Links to other recipes](./recipes/links/)
 - [Pizza calculator link](https://www.stadlermade.com/pizza-calculator/)
