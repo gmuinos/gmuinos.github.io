@@ -1,26 +1,34 @@
 # Main
-- [Fried Rice](./recipes/friedRice/)
 - [Brasato al Barolo](./recipes/brasato/)
-- [Lasagna](./recipes/lasagna/)
 - [Potato Omelette](./recipes/potatoOmelette/)
 - [Neapolitan Pizza](./recipes/pizza/)
-- [Almond Schnitzel](./recipes/almondChicken/)
-- [Fish with Couscous](./recipes/fishCouscous/)
-- [Lemon Butter Chicken](./recipes/lemonChicken/)
-- [Cider Mussels](./recipes/mussels/)
-- [Orange Chicken](./recipes/orangeChicken/)
-- [Green Curry Fried Rice](./recipes/greenCurryFriedRice/)
+- [Lasagna](./recipes/lasagna/)
 - [Empanada](./recipes/empanada/)
+
+## Fried Rice
+- [Fried Rice](./recipes/friedRice/)
+- [Green Curry Fried Rice](./recipes/greenCurryFriedRice/)
+
+## Chicken
+- [Almond Schnitzel](./recipes/almondChicken/)
+- [Lemon Butter Chicken](./recipes/lemonChicken/)
+- [Orange Chicken](./recipes/orangeChicken/)
+- 
+## Fish
+- [Fish with Couscous](./recipes/fishCouscous/)
+- [Cider Mussels](./recipes/mussels/)
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
 - [Oven-roasted Potatoes](./recipes/roastedPotatoes/)
 - [Baguette](./recipes/baguette/)
 - [Quick-pickled Vegetables](./recipes/quickPickle/)
-- [Popcorn](./recipes/popCorn/)
 - [Crunchy Chickpea Caesar Salad](./recipes/crunchyCaesar/)
 - [Velouté](./recipes/velute/)
 - [Cauliflower Puree](./recipes/cauliflowerPuree/)
+
+# Snacks
+- [Popcorn](./recipes/popCorn/)
 
 # Drinks
 - [Iced Coffee](./recipes/icedCoffee/)
@@ -33,10 +41,3 @@
 - [Cellar wine and beer](./stuff/agingDrinks/)
 - [Links to other recipes](./recipes/links/)
 - [Pizza calculator link](https://www.stadlermade.com/pizza-calculator/)
-
-<!--
-# Celebrations
-
-[Looking for Some Color](./projects/lookingForColor/)
-[Today](./projects/mushroomChicken/)
--->
