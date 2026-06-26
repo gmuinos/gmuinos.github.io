@@ -45,6 +45,6 @@
 - There is an empanada recipe halfway there
 - Vermouth
 - Ravioli
-- Broccoli Rabe and Fennel Sausage Pizza
+- Broccoli Rabe and Sausage Pizza
 
 
