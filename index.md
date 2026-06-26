@@ -9,7 +9,7 @@
 
 ### Fried Rice
 - [Fried Rice](./recipes/friedRice/)
-- [Green Curry Fried Rice](./recipes/greenCurryFriedRice/)
+- [Green Curry Fried Rice (ข้าวผัดแกงเขียวหวาน)](./recipes/greenCurryFriedRice/)
 
 ### Chicken
 - [Almond Schnitzel](./recipes/almondChicken/)
