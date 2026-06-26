@@ -1,25 +1,27 @@
 # Main
 
-##  
-
-- [Brasato al Barolo](./recipes/brasato/)
-- [Potato Omelette](./recipes/potatoOmelette/)
-- [Neapolitan Pizza](./recipes/pizza/)
-- [Lasagna](./recipes/lasagna/)
-- [Empanada](./recipes/empanada/)
-
-### Fried Rice
+## Fried Rice
 - [Fried Rice](./recipes/friedRice/)
 - [Green Curry Fried Rice (ข้าวผัดแกงเขียวหวาน)](./recipes/greenCurryFriedRice/)
 
-### Chicken
+## Chicken
 - [Almond Schnitzel](./recipes/almondChicken/)
 - [Lemon Butter Chicken](./recipes/lemonChicken/)
 - [Orange Chicken](./recipes/orangeChicken/)
 
-### Fish
+## Fish
 - [Fish with Couscous](./recipes/fishCouscous/)
 - [Cider Mussels](./recipes/mussels/)
+
+## Italy
+- [Brasato al Barolo](./recipes/brasato/)
+- [Neapolitan Pizza](./recipes/pizza/)
+- [Lasagna](./recipes/lasagna/)
+
+## Spain
+- [Potato Omelette](./recipes/potatoOmelette/)
+- [Empanada](./recipes/empanada/)
+
 
 # Side dishes
 - [Grandma Rice](./recipes/rice/)
