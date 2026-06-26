@@ -24,11 +24,17 @@
 
 
 # Side dishes
+
+## Bread, rice, potatoes
 - [Grandma Rice](./recipes/rice/)
 - [Oven-roasted Potatoes](./recipes/roastedPotatoes/)
 - [Baguette](./recipes/baguette/)
+
+## Vegetables
 - [Quick-pickled Vegetables](./recipes/quickPickle/)
 - [Crunchy Chickpea Caesar Salad](./recipes/crunchyCaesar/)
+
+## Sauces
 - [Velouté](./recipes/velute/)
 - [Cauliflower Puree](./recipes/cauliflowerPuree/)
 
