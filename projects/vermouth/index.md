@@ -10,19 +10,20 @@
 - Separate 250ml
 - Take 250ml into a small pot
 - Add herbs and spices
-- Warm up the wine until it is almost boiling for around 10 minutes
-- Add 250ml of the brandy to the bottle of wine.
+- Warm up the wine until it is almost boiling
+- Keep it at that temperature for around 10 minutes
+- Add 250ml of the brandy to the bottle of wine
+- Strain the warm liquid into the wine bottle
 - Top up with the previously separated wine
 
 ## Basic ingredients:
-- Brandy
+- Brandy, sherry, or vodka
 - White wine
 - Red wine
 
 ## Special tools
 - Filter
-- Four jars
-- 
+-  
 
 
 It can be berries and fruits as well
