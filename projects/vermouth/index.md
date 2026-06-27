@@ -26,7 +26,7 @@
 
 ## Special tools
 - Filter
-- 
 
-
-It can be berries and fruits as well
+## Notes
+- It can be berries and fruits as well
+- Wormwood is common
