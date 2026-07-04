@@ -3,6 +3,7 @@
 ## Italy
 - [Brasato al Barolo](./recipes/brasato/)
 - [Neapolitan Pizza](./recipes/pizza/)
+- [Ravioli](./recipes/ravioli/)
 - [Lasagna](./recipes/lasagna/)
 
 ## Chicken
