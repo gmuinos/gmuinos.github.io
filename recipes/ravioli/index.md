@@ -1,13 +1,13 @@
 # Ravioli
 
-There are several recipes to make fillings below.
+In addition, a sauce and filling recipes (below) are needed.
 
 ## The Dough
 
 ### Ingredients
 - 2 cup all purpose flour
 - 2 whole eggs
-- 6 egg jolks
+- 6 egg jolks (the whites will be used in the filling and to seal the pasta)
 - 2 tablespoons olive oil
 
 ### Steps
@@ -40,3 +40,42 @@ There are several recipes to make fillings below.
 
 ## Fillings
 
+### Three Cheese Ravioli
+#### Ingredients
+- Soft cheese: ricotta
+- A semi hard cheese such as comté or cheddar
+- A hard cheese such as parmesan or grana padano
+- Egg whites for binding
+
+#### Steps
+- Mix everything together well
+
+### Beef Ravioli
+#### Ingredients
+- Minced beef
+- Onion
+- Celery
+- Carrot
+- Garlic
+- Parmesan cheese
+- Rosemary
+- Thyme
+- White wine
+- Salt and pepper
+
+#### Steps
+- Turn the grill of the oven
+- Place the meat in a tray in the oven
+- Chop the onion very finely
+- Sauté the onion in a skillet
+- Chop the carrot and celery very finely
+- Add them to the skillet
+- Chop garlic
+- Add the garlic to the skillet
+- Add the romery and thyme (if fresh, chop very finely)
+- Add the meat to the skillet
+- Deglase the oven tray and add the liquid to the skillet
+- Turn the heat off
+- Add the parmesan
+- Add the egg white
+- Set aside until room temperature
