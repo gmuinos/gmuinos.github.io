@@ -51,4 +51,4 @@
 # Other content
 - [Cellar wine and beer](./stuff/agingDrinks/)
 - [Links to other recipes](./recipes/links/)
-- [Pizza calculator link](https://www.stadlermade.com/pizza-calculator/)
+- [Pizza calculator link](https://www.stadlermade.com/pizza-calculator/) 
