@@ -1,7 +1,5 @@
 # Ravioli
 
-The recipes for different possible fillings are [here](#fillings)
-
 # The Dough
 
 ## Ingredients
@@ -31,6 +29,12 @@ The recipes for different possible fillings are [here](#fillings)
 - Fold and warp the pasta around each filling removing all the air possible
 - Seal well around the filling
 - Cut in the desired shape
+
+### Cooking
+- Boil the water in a large pot
+- Add salt
+- Add the ravioli
+- Cook between five and 10 minutes
 
 # Fillings
 
