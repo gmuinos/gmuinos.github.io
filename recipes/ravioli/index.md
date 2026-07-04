@@ -1,5 +1,9 @@
 # Ravioli
 
+The recipes for different possible fillings are [here](#fillings)
+
+# The Dough
+
 ## Ingredients
 - 2 cup all purpose flour
 - 2 whole eggs
@@ -27,4 +31,6 @@
 - Fold and warp the pasta around each filling removing all the air possible
 - Seal well around the filling
 - Cut in the desired shape
+
+# Fillings
 
