@@ -1,8 +1,9 @@
 # Ravioli
 
-In addition, a sauce and filling recipes (below) are needed.
+Ravioli need three parts: the dough, the filling, and a sauce.
+
 - [The Dough](#the-dough)
-- [Filing ideas](#fillings)
+- [Filing Ideas](#fillings)
 - [Sauces](#sauces)
 
 
@@ -86,8 +87,26 @@ In addition, a sauce and filling recipes (below) are needed.
 
 ## Sauces
 
+### Sage butter sauce
+- Sage leaves
+- Butter
+- Garlic
+
+#### Steps
+- Brown the butter
+- Stop the heat
+
 ### Creamy sauce
 - Garlic
 - Cream
 - Butter
+- Parley
+- Parmesan cheese
+- Chicken or vegetable stock
+
+#### Steps
+- Chop or mince the garlic
+- Grate the cheese
+- 
+
 ### Tomatoe sauce
