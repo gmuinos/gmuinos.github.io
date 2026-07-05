@@ -69,17 +69,15 @@ Ravioli need three parts: the dough, the filling, and a sauce.
 - Salt and pepper
 
 #### Steps
-- Turn the grill of the oven
-- Place the meat in a tray in the oven
 - Chop the onion very finely
 - Sauté the onion in a skillet
 - Chop the carrot and celery very finely
 - Add them to the skillet
+- Add the meat
 - Chop garlic
-- Add the garlic to the skillet
+- Add the garlic
 - Add the romery and thyme (if fresh, chop very finely)
-- Add the meat to the skillet
-- Deglase the oven tray and add the liquid to the skillet
+- Deglase if needed
 - Turn the heat off
 - Add the parmesan
 - Add the egg white
