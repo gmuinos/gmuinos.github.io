@@ -120,4 +120,4 @@ Ravioli need three parts: the dough, the filling, and a sauce.
 - Add cheeese
 - Check for salt and pepper
 
-### Tomatoe sauce
+### Tomato sauce
