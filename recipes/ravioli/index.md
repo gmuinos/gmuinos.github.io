@@ -1,6 +1,10 @@
 # Ravioli
 
 In addition, a sauce and filling recipes (below) are needed.
+- [The Dough](#the-dough)
+- [Filing ideas](#fillings)
+- [Sauces](#sauces)
+
 
 ## The Dough
 
@@ -79,3 +83,11 @@ In addition, a sauce and filling recipes (below) are needed.
 - Add the parmesan
 - Add the egg white
 - Set aside until room temperature
+
+## Sauces
+
+### Creamy sauce
+- Garlic
+- Cream
+- Butter
+### Tomatoe sauce
