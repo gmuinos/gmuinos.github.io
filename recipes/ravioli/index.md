@@ -94,7 +94,10 @@ Ravioli need three parts: the dough, the filling, and a sauce.
 
 #### Steps
 - Brown the butter
-- Stop the heat
+- Chop two of the leaves and let the rest whole
+- Stop the heat when the butter is brown
+- Add all the leaves
+- Add the pasta
 
 ### Creamy sauce
 - Garlic
@@ -107,6 +110,14 @@ Ravioli need three parts: the dough, the filling, and a sauce.
 #### Steps
 - Chop or mince the garlic
 - Grate the cheese
-- 
+- Add butter and garlic together from cold
+- Once garlic is fragrant, add stock
+- Add cream
+- Add salt
+- Add coarley ground pepper
+- Boil and reduce
+- Add pasta
+- Add cheeese
+- Check for salt and pepper
 
 ### Tomatoe sauce
