@@ -1,14 +1,14 @@
-## Cuatro Vermús
+# Cuatro Vermús
 
-![four](https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3JlZGVmaW5lZm91cnNlYXNvbnMtMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==)
+![fourSeasons](https://cdn.hswstatic.com/gif/redefinefourseasons-1.jpg)
 
-https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3JlZGVmaW5lZm91cnNlYXNvbnMtMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==
-
-https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3JlZGVmaW5lZm91cnNlYXNvbnMtMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==
-
-https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3JlZGVmaW5lZm91cnNlYXNvbnMtMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==
+## Primavera/Verano
 
 ![spring](https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/37oklahomaGCPA.jpg)
+
+## Otoño/Invierno
+
+![autumn](https://images.stockcake.com/public/8/e/a/8eac5778-f460-4ac7-9104-bb7b61edd45c_large/autumn-meets-winter-stockcake.jpg)
 
 ## Steps for one
 - Make 100ml of honey syrup per bottle of sweet vermouth
