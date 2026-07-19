@@ -1,9 +1,8 @@
-## Four Vermouths
+## Cuatro Vermús
 
-||Sweet|Dry|
-|-|-|-|
-|White|||
-|Red|||
+![fourSeasons](https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3JlZGVmaW5lZm91cnNlYXNvbnMtMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==)
+
+![spring](https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/37oklahomaGCPA.jpg)
 
 ## Steps for one
 - Make 100ml of honey syrup per bottle of sweet vermouth
