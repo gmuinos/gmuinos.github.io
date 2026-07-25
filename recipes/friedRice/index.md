@@ -1,6 +1,6 @@
 # Fried Rice
 
-This dish is based the recipe of Elizabeth Haigh.
+This dish is based on a recipe of Elizabeth Haigh.
 
 ## Ingredients
 For the rice:
