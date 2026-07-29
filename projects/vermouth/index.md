@@ -30,6 +30,8 @@
 - Romero: cucharilla rasa
 - Tomillo: tres chis
 - Artemisa: cucharilla colmada
+- 100ml simple syrup 
+- Chorrito de vainilla
 
 ## Steps for one
 - Make 100ml of honey syrup per bottle of sweet vermouth
