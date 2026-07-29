@@ -21,6 +21,14 @@
 
 ![autumn](https://images.stockcake.com/public/8/e/a/8eac5778-f460-4ac7-9104-bb7b61edd45c_large/autumn-meets-winter-stockcake.jpg)
 
+- Salvia: Dos y media cucharillas colmadas
+- Nuez moscada: cucharilla rasa
+- Canela: cucharilla rasa pero un poquito más
+- Clavo: una cucharilla rasa
+- Romero: cucharilla rasa
+- Tomillo: tres chis
+- Artemisa: cucharilla colmada
+
 ## Steps for one
 - Make 100ml of honey syrup per bottle of sweet vermouth
 - Open a bottle of wine
