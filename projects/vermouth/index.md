@@ -6,6 +6,17 @@
 
 ![spring](https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/37oklahomaGCPA.jpg)
 
+- Hinojo: Una cucharilla rasa
+- Semillas de cilantro: Una cucharilla colmada y media
+- Lavanda: Una cucharilla rasa
+- Flor de hibisco: Dos cucharillas colmadas
+- Petalos de rosas: Dos cucharillas colmadas y media
+- Jengibre: Un cachito
+- Artemisa: Un cucharilla colmada
+- Rayadura de un tercio de limón
+- Manojo pequeño de albahaca (tras apagar el fuego)
+- Frutos rojos: un puñado
+
 ## Otoño/Invierno
 
 ![autumn](https://images.stockcake.com/public/8/e/a/8eac5778-f460-4ac7-9104-bb7b61edd45c_large/autumn-meets-winter-stockcake.jpg)
