@@ -4,8 +4,8 @@
 
 ## Primavera/Verano
 ### Vermú de la Pasión 
-
 ![spring](https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/37oklahomaGCPA.jpg)
+> very bitter! Work in progress
 
 - Hinojo: Una cucharilla rasa
 - Semillas de cilantro: Una cucharilla colmada y media
