@@ -11,7 +11,7 @@
 - [Lemon Butter Chicken](./recipes/lemonChicken/)
 - [Orange Chicken](./recipes/orangeChicken/)
 
-## Fried Rice
+## Fried Rice and fried noodles
 - [Fried Rice](./recipes/friedRice/)
 - [Green Curry Fried Rice (ข้าวผัดแกงเขียวหวาน)](./recipes/greenCurryFriedRice/)
 
@@ -20,7 +20,7 @@
 - [Cider Mussels](./recipes/mussels/)
 
 ## Spain
-- [Potato Omelette](./recipes/potatoOmelette/)
+- [Potato Omelet](./recipes/potatoOmelette/)
 - [Empanada](./recipes/empanada/)
 
 
@@ -44,6 +44,7 @@
 
 # Drinks
 - [Iced Coffee](./recipes/icedCoffee/)
+- [Vermouth](./recipes/vermouth/)
 - [Glühwein](./recipes/glühwein/)
 - [Black Velvet](./recipes/blackVelvet/)
 - [Bee's Knees](./recipes/beesKnees/)
