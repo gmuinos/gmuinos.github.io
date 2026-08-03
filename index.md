@@ -13,6 +13,7 @@
 
 ## Fried Rice and fried noodles
 - [Fried Rice](./recipes/friedRice/)
+- [Fried Noodles](./recipes/friedNoodles/)
 - [Green Curry Fried Rice (ข้าวผัดแกงเขียวหวาน)](./recipes/greenCurryFriedRice/)
 
 ## Fish
@@ -22,7 +23,6 @@
 ## Spain
 - [Potato Omelet](./recipes/potatoOmelette/)
 - [Empanada](./recipes/empanada/)
-
 
 # Side dishes
 
