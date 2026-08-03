@@ -14,22 +14,33 @@
 ## When a wok is available
 ### Noodles
 - Cook noodles
-- Rinse cooked noodles under cold running water.
-- Drain well and set aside.
+- Rinse noodles under cold running water
+- Drain well
+
+### Chopping
+- Chop all the vegetables
+
 ### Eggs
-- In a small bowl, beat eggs with salt until homogenous.
-- In a wok, heat 2 tablespoons (30ml) oil over high heat until shimmering.
-- Add eggs and cook, scrambling and stir-frying with a spatula, until almost cooked through, about 30 seconds.
-- Transfer to a plate and set aside.
+- Beat eggs with salt
+- Heat oil in a wok
+- Add eggs and scramble
+- Transfer to a plate
 
 ### Vegetables
-- Wipe out wok and add 1 tablespoon (15ml) oil. Heat over high heat until smoking.
-- Add greens and stir-fry until just tender, 1 to 3 minutes. Transfer to a plate and set aside.
+- Wipe out wok and add oil
+- Wait until hot
+- Add greens and stir-fry
+- Transfer to a plate
 
 ### Aromatics and mixing
-- Add remaining 1 tablespoon (15ml) oil to wok and heat over high heat until smoking.
-- Add garlic and scallions and cook, stirring constantly, until lightly browned, about 30 seconds.
-- Add chile flakes or chile sauce to wok and stir-fry until fragrant, a few seconds.
-- Add noodles to wok and stir around with a spatula, adding soy sauce as you mix.
-- Stir-fry until noodles are dry and evenly seasoned, 2 to 3 minutes, then add eggs and vegetables and stir around until everything is blended.
-- Serve immediately, with more chile sauce and soy sauce on the side.
+- Wipe out wok and add oil
+- Wait until hot
+- Add scallions
+- Add garlic
+- Add chile flakes
+- Add noodles
+- Add soy sauce progressively
+- Stir-fry until noodles are dry
+- Add eggs
+- Add vegetables
+- Stir everything
