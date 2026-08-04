@@ -8,7 +8,10 @@
 - hard greens
 - garlic
 - scallions
+- shallots
 - soy sauce
+- msg
+- sesame oil
 - chilly flakes
 
 ## When a wok is available
@@ -35,6 +38,7 @@
 ### Aromatics and mixing
 - Wipe out wok and add oil
 - Wait until hot
+- Add shallots
 - Add scallions
 - Add garlic
 - Add chile flakes
@@ -43,7 +47,9 @@
 - Stir-fry until noodles are dry
 - Add eggs
 - Add vegetables
+- Add msg
 - Stir everything
+- Stop the heat and add sesame oil
 
 ## When a wok is not available
 Two skillets are needed, one of them needs to be nonstick and one needs to stand high heat.
@@ -70,21 +76,17 @@ Two skillets are needed, one of them needs to be nonstick and one needs to stand
 
 > Nonstick skillet can be removed now
 
-### Vegetables
+### Vegetable, aromatics and mixing
 - Add oil to the high heat skillet
 - Wait until hot
-- Add greens and stir-fry
-- Transfer to a plate
-
-### Aromatics and mixing
-- Wipe out the high heat skillet and add oil
-- Wait until hot
+- Add shallots
 - Add scallions
 - Add garlic
+- Add greens and stir-fry
 - Add chilly flakes
 - Add noodles
 - Add eggs
-- Add vegetables
+- Add msg
 - Stir everything
 
 
