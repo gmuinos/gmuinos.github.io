@@ -19,7 +19,7 @@
 - Remove the stringy part if they have.
 
 ### The roux
-- Large pot with meadium heat
+- Large pot with medium heat
 - Add oil and butter
 - Chop onion or shallot
 - Add onion or shallot
@@ -38,7 +38,7 @@
 - Cook for around three minutes
 - Chop parsley
 - Add parsley when shutting the heat
-- Serve inmediately
+- Serve immediately
 
 > When eating, discard all the mussels that are closed
 
