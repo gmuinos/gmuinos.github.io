@@ -37,14 +37,13 @@
 - Star anise in onions
 - When reverse-searing, cut inmediatelly.
 - Bakers percentage is a ratio.
+- Vegetables that grow above the ground, directly on salted boiling water. Vegetables that grow unthe the ground, on salted cold water.
 
 - Three stews: beef bourguignon, brasato al Barolo, and cocido
 - Empanadillas
 - Butter sauce
 - Chocolate fondant
 - There is an empanada recipe halfway there
-- Vermouth
-- Ravioli
 - Broccoli Rabe and Sausage Pizza
 - https://youtu.be/eKsE9P8kJwY
 - https://youtu.be/WO67yMWdV-U
