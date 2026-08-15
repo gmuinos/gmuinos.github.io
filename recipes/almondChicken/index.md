@@ -7,7 +7,7 @@ Based on [this](https://www.theguardian.com/food/2025/oct/27/harissa-baked-hake-
 - parmesan
 - almonds
 - zest of a lemon
-- cornflour
+- corn starch
 - salt and black pepper
 - eggs
 - dijon mustard
@@ -19,7 +19,7 @@ Based on [this](https://www.theguardian.com/food/2025/oct/27/harissa-baked-hake-
 - Add the almonds and keep grinding.
 - Transfer to a plate and add the lemon zest.
 - Beat the eggs and add mustard.
-- Plate cornflour and season.
+- Plate corn starch and season.
 - Prepare a skillet with around a centimeter of oil and medium heat.
 - Flatten or buterfly the chicken.
 > Cornflour → Egg → Almonds
