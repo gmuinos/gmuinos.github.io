@@ -8,6 +8,18 @@
 
 > Consejos: menos lavanda, añadir azúcar, solo una cuchara rasa de artemisa,100 ml de colonia y more flowers 
 
+16% alcohol
+- hinojo: cucharilla rasa
+- semillas de cilantro: dos cucharillas colmadas
+- lavanda: un chis
+- flor de hibisco: tres colmadas
+- pétalos de rosa: tres colmadas
+- jenjibre: un cachito
+- artemisa: media cucharilla
+- albahaca seca: unos chis
+- frutos rojos: un puñado 
+
+18% alcohol 
 - Hinojo: Una cucharilla rasa
 - Semillas de cilantro: Una cucharilla colmada y media
 - Lavanda: Una cucharilla rasa
