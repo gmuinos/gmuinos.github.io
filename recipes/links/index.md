@@ -5,5 +5,3 @@ These are a mix of links to recipes.
 [Meatballs](https://www.seriouseats.com/italian-american-beef-pork-meatballs-red-tomato-sauce-recipe)
 
 [Pandoro](https://www.daringgourmet.com/pandoro-recipe/)
-
-[Low-heat fried rice](https://youtu.be/8gzfb40VR5A)
