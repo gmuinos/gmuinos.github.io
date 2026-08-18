@@ -8,6 +8,8 @@ This recipe includes two types of vermouth a summery dry white vermouth and a sw
 ### Vermú de la Pasión 
 ![spring](https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/37oklahomaGCPA.jpg)
 
+> Try with red wine. Remove red berries. Try flowers on their own.
+
 16% alcohol
 - hinojo: cucharilla rasa
 - semillas de cilantro: dos cucharillas colmadas
