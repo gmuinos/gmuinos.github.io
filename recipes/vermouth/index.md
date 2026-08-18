@@ -2,13 +2,62 @@
 
 ![fourSeasons](https://cdn.hswstatic.com/gif/redefinefourseasons-1.jpg)
 
+This recipe includes two types of vermouth a summery dry white vermouth and a sweeter wintery one. On the bottom of the page there is information about how to make them and also a calculator to know how much distilled alcohol needs to be added.
+
 ## Primavera/Verano
 ### Vermú de la Pasión 
 ![spring](https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/37oklahomaGCPA.jpg)
 
+16% alcohol
+- hinojo: cucharilla rasa
+- semillas de cilantro: dos cucharillas colmadas
+- lavanda: un chis
+- flor de hibisco: tres colmadas
+- pétalos de rosa: tres colmadas
+- jengibre: un cachito
+- artemisa: media cucharilla
+- albahaca seca: unos chis
+- frutos rojos: un puñado
+- 50 ml of simple syrup with wine instead of water
 
+## Otoño/Invierno
+### Glühmú
 
-<!DOCTYPE html>
+![autumn](https://images.stockcake.com/public/8/e/a/8eac5778-f460-4ac7-9104-bb7b61edd45c_large/autumn-meets-winter-stockcake.jpg)
+
+- Salvia: Dos y media cucharillas colmadas
+- Nuez moscada: cucharilla rasa
+- Canela: cucharilla rasa pero un poquito más
+- Clavo: una cucharilla rasa
+- Romero: cucharilla rasa
+- Tomillo: tres chis
+- Artemisa: cucharilla colmada
+- 100ml simple syrup 
+- Chorrito de vainilla
+
+## Steps for one
+- Make 100ml of honey syrup per bottle of sweet vermouth
+- Open a bottle of wine
+- Separate 250ml
+- Take 250ml into a small pot
+- Add herbs and spices
+- Warm up the wine until it is almost boiling
+- Keep it at that temperature for around 10 minutes
+- Add 250ml of the brandy to the bottle of wine
+- Strain the warm liquid into the wine bottle
+  - Add 100ml of honey syrup if sweet
+- Top up with the previously separated wine if bottle is not full
+
+## Basic ingredients
+- Brandy, sherry, or vodka
+- Honey
+- White wine
+- Red wine
+
+## Special tools
+- Metallic filter from AeroPress
+
+## Calculator
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -54,57 +103,6 @@
 
 </body>
 </html>
-
-16% alcohol
-- hinojo: cucharilla rasa
-- semillas de cilantro: dos cucharillas colmadas
-- lavanda: un chis
-- flor de hibisco: tres colmadas
-- pétalos de rosa: tres colmadas
-- jenjibre: un cachito
-- artemisa: media cucharilla
-- albahaca seca: unos chis
-- frutos rojos: un puñado
-- 50 ml of simple syrup with wine instead of water
-
-
-
-## Otoño/Invierno
-### Glühmú
-
-![autumn](https://images.stockcake.com/public/8/e/a/8eac5778-f460-4ac7-9104-bb7b61edd45c_large/autumn-meets-winter-stockcake.jpg)
-
-- Salvia: Dos y media cucharillas colmadas
-- Nuez moscada: cucharilla rasa
-- Canela: cucharilla rasa pero un poquito más
-- Clavo: una cucharilla rasa
-- Romero: cucharilla rasa
-- Tomillo: tres chis
-- Artemisa: cucharilla colmada
-- 100ml simple syrup 
-- Chorrito de vainilla
-
-## Steps for one
-- Make 100ml of honey syrup per bottle of sweet vermouth
-- Open a bottle of wine
-- Separate 250ml
-- Take 250ml into a small pot
-- Add herbs and spices
-- Warm up the wine until it is almost boiling
-- Keep it at that temperature for around 10 minutes
-- Add 250ml of the brandy to the bottle of wine
-- Strain the warm liquid into the wine bottle
-  - Add 100ml of honey syrup if sweet
-- Top up with the previously separated wine if bottle is not full
-
-## Basic ingredients
-- Brandy, sherry, or vodka
-- Honey
-- White wine
-- Red wine
-
-## Special tools
-- Metallic filter from AeroPress
 
 ## Notes
 > Consejos: menos lavanda, añadir azúcar, solo una cuchara rasa de artemisa,100 ml de colonia y more flowers 
