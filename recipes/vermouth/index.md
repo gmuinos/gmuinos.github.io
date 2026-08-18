@@ -6,7 +6,54 @@
 ### Vermú de la Pasión 
 ![spring](https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/37oklahomaGCPA.jpg)
 
-> Consejos: menos lavanda, añadir azúcar, solo una cuchara rasa de artemisa,100 ml de colonia y more flowers 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vodka Calculator</title>
+</head>
+<body>
+
+    <h1>Alcohol Percentage Calculator</h1>
+
+    <label for="desiredAlcohol">Desired alcohol percentage:</label>
+    <input type="number" id="desiredAlcohol" step="0.1">
+    <br><br>
+
+    <label for="wineAlcohol">Current wine alcohol percentage:</label>
+    <input type="number" id="wineAlcohol" step="0.1">
+    <br><br>
+
+    <label for="vodkaAlcohol">Current vodka alcohol percentage:</label>
+    <input type="number" id="vodkaAlcohol" step="0.1">
+    <br><br>
+
+    <button onclick="calculateVodka()">Calculate</button>
+
+    <h2 id="result"></h2>
+
+    <script>
+        function calculateVodka() {
+            const desiredAlcohol = parseFloat(document.getElementById("desiredAlcohol").value);
+            const wineAlcohol = parseFloat(document.getElementById("wineAlcohol").value);
+            const vodkaAlcohol = parseFloat(document.getElementById("vodkaAlcohol").value);
+
+            const total = 750;
+
+            const vv =
+                (total * (desiredAlcohol / 100 - wineAlcohol / 100)) /
+                (vodkaAlcohol / 100 - wineAlcohol / 100);
+
+            document.getElementById("result").textContent =
+                "You need to add a total of " + vv.toFixed(2) + " ml of vodka.";
+        }
+    </script>
+
+</body>
+</html>
 
 16% alcohol
 - hinojo: cucharilla rasa
@@ -17,19 +64,10 @@
 - jenjibre: un cachito
 - artemisa: media cucharilla
 - albahaca seca: unos chis
-- frutos rojos: un puñado 
+- frutos rojos: un puñado
+- 50 ml of simple syrup with wine instead of water
 
-18% alcohol 
-- Hinojo: Una cucharilla rasa
-- Semillas de cilantro: Una cucharilla colmada y media
-- Lavanda: Una cucharilla rasa
-- Flor de hibisco: Dos cucharillas colmadas
-- Petalos de rosas: Dos cucharillas colmadas y media
-- Jengibre: Un cachito
-- Artemisa: Un cucharilla colmada
-- Rayadura de un tercio de limón
-- Manojo pequeño de albahaca (tras apagar el fuego)
-- Frutos rojos: un puñado
+
 
 ## Otoño/Invierno
 ### Glühmú
@@ -66,8 +104,18 @@
 - Red wine
 
 ## Special tools
-- Filter
+- Metallic filter from AeroPress
 
 ## Notes
-- It can be berries and fruits as well
-- Wormwood is common
+> Consejos: menos lavanda, añadir azúcar, solo una cuchara rasa de artemisa,100 ml de colonia y more flowers 
+18% alcohol 
+- Hinojo: Una cucharilla rasa
+- Semillas de cilantro: Una cucharilla colmada y media
+- Lavanda: Una cucharilla rasa
+- Flor de hibisco: Dos cucharillas colmadas
+- Petalos de rosas: Dos cucharillas colmadas y media
+- Jengibre: Un cachito
+- Artemisa: Un cucharilla colmada
+- Rayadura de un tercio de limón
+- Manojo pequeño de albahaca (tras apagar el fuego)
+- Frutos rojos: un puñado
