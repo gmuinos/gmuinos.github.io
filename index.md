@@ -1,9 +1,10 @@
 # Main
 
-## Italy
+## Some main dishes
 - [Brasato al Barolo](./recipes/brasato/)
 - [Neapolitan Pizza](./recipes/pizza/)
 - [Ravioli](./recipes/ravioli/)
+- [Potato Omelet](./recipes/potatoOmelette/)
 - [Lasagna](./recipes/lasagna/)
 
 ## Chicken
@@ -11,7 +12,7 @@
 - [Lemon Butter Chicken](./recipes/lemonChicken/)
 - [Orange Chicken](./recipes/orangeChicken/)
 
-## Fried Rice and fried noodles
+## Fried rice and fried noodles
 - [Fried Rice](./recipes/friedRice/)
 - [Fried Noodles](./recipes/friedNoodles/)
 - [Green Curry Fried Rice (ข้าวผัดแกงเขียวหวาน)](./recipes/greenCurryFriedRice/)
@@ -19,10 +20,6 @@
 ## Fish
 - [Fish with Couscous](./recipes/fishCouscous/)
 - [Cider Mussels](./recipes/mussels/)
-
-## Spain
-- [Potato Omelet](./recipes/potatoOmelette/)
-- [Empanada](./recipes/empanada/)
 
 # Side dishes
 
