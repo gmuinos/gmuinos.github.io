@@ -38,6 +38,7 @@
 - When reverse-searing, cut inmediatelly.
 - Bakers percentage is a ratio.
 - Vegetables that grow above the ground, directly on salted boiling water. Vegetables that grow unthe the ground, on salted cold water.
+- Soak garlic in water for 30 minutes for easy peeling
 
 - Three stews: beef bourguignon, brasato al Barolo, and cocido
 - Empanadillas
