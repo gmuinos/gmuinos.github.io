@@ -43,6 +43,8 @@
 - Three stews: beef bourguignon, brasato al Barolo, and cocido
 - Empanadillas
 - Butter sauce
+- Boulangère Potatoes: https://youtu.be/-Z3P_NujFos
+- Parsley Sauce: https://youtu.be/CP-xGIkgSAc
 - Chocolate fondant
 - There is an empanada recipe halfway there
 - Broccoli Rabe and Sausage Pizza
