@@ -48,7 +48,7 @@
 - Chocolate fondant
 - There is an empanada recipe halfway there
 - Broccoli Rabe and Sausage Pizza
-- https://youtu.be/eKsE9P8kJwY
-- https://youtu.be/WO67yMWdV-U
+- Faux day-old rice: https://youtu.be/WO67yMWdV-U
+- Fish tips. Test Kitchen: https://youtu.be/AEL9nuI5efo
 
 
