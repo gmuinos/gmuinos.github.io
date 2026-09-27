@@ -37,4 +37,4 @@
 
 |Wine|Producer|Place|Grape|Year|2026|2027|2028|2029|2030|
 |---|---|---|---|---|---|---|---|---|---|
-|Qui l’Eût Cru|Gustave Lorentz|Alsace|<details>Gewürztraminer, pinot gris, sylvaner</details>|2024|:tada:✅:tada:|🔶|🔶|🔶|🔶|
+|Qui l’Eût Cru|Gustave Lorentz|Alsace|<details>Gewürztraminer, pinot gris, sylvaner</details>|2024|🎉✅🎉|🔶|🔶|🔶|🔶|
