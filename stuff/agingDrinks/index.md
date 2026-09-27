@@ -4,7 +4,6 @@
 
 |Wine|Producer|Place|Grape|Year|2026|2027|2028|2029|2030|
 |---|---|---|---|---|---|---|---|---|---|
-|Qui l’Eût Cru|Gustave Lorentz|Alsace|<details>Gewürztraminer, pinot gris, sylvaner</details>|2024|✅|🔶|🔶|🔶|🔶|
 |Steinberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rotenberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rosenberg|Jakob Schneider|Nahe|Riesling|2024|✅|✅|✅|✅|✅|
@@ -32,7 +31,8 @@
 |Bast|Nevel|Wild ale|<details>Birch bark, pine tops, and blackthorn branches</details>|2024|✅|✅|✅|✅|🔶|
 |Billiard|Frontaal|Stout|Oatmeal|2021|✅|✅|✅|✅|✅|
 
-## Already drunk
+# Already drunk
+
 ## Wines
 
 |Wine|Producer|Place|Grape|Year|2026|2027|2028|2029|2030|
