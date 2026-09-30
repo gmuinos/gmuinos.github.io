@@ -11,7 +11,7 @@
 |San Sebastiano allo Zoppo|Tenute Sella|Piedmont|Nebbiolo, vespolina|2006|❄️|✅|✅|✅|✅|
 |Pauillac|Haut-Bages Monpelou|Pauillac|<details>Cabernet sauvignon, merlot, cabernet franc</details>|2016|❄️|✅|✅|✅|✅|
 |Barolo Ravera|Caliero|Barolo|Nebbiolo|2017|❄️|✅|✅|✅|✅|
-|Langhe Nebbiolo|Stefano Porro|Nebbiolo|2022|❄️|✅|✅|✅|✅|
+|Langhe Nebbiolo|Stefano Porro|Piedmont|Nebbiolo|2022|❄️|✅|✅|✅|✅|
 |Vinhas Velhas|Luis Pato|Bairrada|Baga|2017|❄️|❄️|✅|✅|✅|
 |Barolo|Prunotto|Barolo|Nebbiolo|2017|❄️|❄️|✅|✅|✅|
 |Barolo|San Silvestro|Barolo|Nebbiolo|2018|❄️|❄️|❄️|❄️|✅|
