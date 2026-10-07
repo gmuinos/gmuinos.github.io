@@ -19,7 +19,6 @@
 |Barolo|Prunotto|Barolo|Nebbiolo|2017|❄️|❄️|✅|✅|✅|
 |Barolo|San Silvestro|Barolo|Nebbiolo|2018|❄️|❄️|❄️|❄️|✅|
 |5 Stelle Sfursat|Nino Negri|Sforzato di Valtellina|Nebbiolo|2017|❄️|❄️|❄️|❄️|❄️|
-|Moulis en Médoc|Chateau Granins Grand Poujeaux|Moulis-en-Médoc|<details>Cabernet sauvignon, merlot</details>|2014|✅|✅|✅|✅|✅|
 
 
 ## Beers
