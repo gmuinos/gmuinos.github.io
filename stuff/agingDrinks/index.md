@@ -4,9 +4,9 @@
 
 |Wine|Producer|Place|Grape|Year|2026|2027|2028|2029|2030|
 |---|---|---|---|---|---|---|---|---|---|
+|Moulis en Médoc|Chateau Granins|Moulis-en-Médoc|<details>Cabernet sauvignon, merlot</details>|2014|🔶|🔶|🔶|🔶|🔶|
 |Haut-Vignoble |Chateau Brousseau|Haut-Médoc|<details>Cabernet sauvignon, merlot</details>|2016|✅|🔶|🔶|🔶|🔶|
 |Le Reflet|Chateau Laffitte Carcasset|Saint-Estephe|<details>Cabernet sauvignon, merlot</details>|2017|✅|🔶|🔶|🔶|🔶|
-|Moulis en Médoc|Chateau Granins|Moulis-en-Médoc|<details>Cabernet sauvignon, merlot</details>|2014|✅|✅|✅|✅|✅|
 |Steinberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rotenberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rosenberg|Jakob Schneider|Nahe|Riesling|2024|✅|✅|✅|✅|✅|
