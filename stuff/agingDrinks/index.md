@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 |Haut-Vignoble |Chateau Brousseau|Haut-Médoc|<details>Cabernet sauvignon, merlot</details>|2016|✅|🔶|🔶|🔶|🔶|
 |Le Reflet de Laffitte Carcasset|Chateau Reflet Laffitte Carcasset|Saint-Estephe|<details>Cabernet sauvignon, merlot</details>|2017|✅|🔶|🔶|🔶|🔶|
-|Moulis en Médoc|Chateau Granins Grand Poujeaux|Moulis-en-Médoc|2014|<details>Cabernet sauvignon, merlot</details>|2014|✅|✅|✅|✅|✅|
+|Moulis en Médoc|Chateau Granins Grand Poujeaux|Moulis-en-Médoc|<details>Cabernet sauvignon, merlot</details>|2014|✅|✅|✅|✅|✅|
 |Steinberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rotenberg|Hermannsberg|Nahe|Riesling|2020|✅|✅|✅|✅|✅|
 |Rosenberg|Jakob Schneider|Nahe|Riesling|2024|✅|✅|✅|✅|✅|
