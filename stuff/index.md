@@ -11,35 +11,22 @@
 - Panuozzo
 - Potaje de verduras, de lentejas, rancho,...
 - Beeramisu
-
-
 - Candeal flour
-
-
 - Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
 - Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
-
 - Jasmine clove lime
-
 - Moscato d'Asti
-
 - Make a sour stout such as - Nevel, Obscuur, which was made with kwets (Prunus domestica ssp. domestica) 
-
 - Use the black round thing for the chopping
-
 - alt + 0160
-
 - https://www.baktotaal.nl/
-
 - Elf's Nightingale (orange butter chicken)
-
 - Once the Leidenfrost effect is reached, reduce the heat to low. Then, add oil and the ingredients.
 - Star anise in onions
 - When reverse-searing, cut inmediatelly.
 - Bakers percentage is a ratio.
 - Vegetables that grow above the ground, directly on salted boiling water. Vegetables that grow unthe the ground, on salted cold water.
 - Soak garlic in water for 30 minutes for easy peeling
-
 - Three stews: beef bourguignon, brasato al Barolo, and cocido
 - Empanadillas
 - Butter sauce
@@ -51,7 +38,7 @@
 - Faux day-old rice: https://youtu.be/WO67yMWdV-U
 - Fish tips. Test Kitchen: https://youtu.be/AEL9nuI5efo
 - Other way of making roasted chicken: https://youtu.be/Wdh9w6Mtjag
-- https://youtu.be/J32bkjlcyW4
+- Fish confit: https://youtu.be/J32bkjlcyW4
 - Poutine with cheddar
-
+- Frittata
 
