@@ -68,8 +68,6 @@ This recipe includes two types of vermouth a summery dry white vermouth and a sw
 </head>
 <body>
 
-    <h1>Alcohol Percentage Calculator</h1>
-
     <label for="desiredAlcohol">Desired alcohol percentage:</label>
     <input type="number" id="desiredAlcohol" step="0.1">
     <br><br>
