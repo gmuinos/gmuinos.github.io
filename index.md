@@ -6,6 +6,7 @@
 - [Ravioli](./recipes/ravioli/)
 - [Potato Omelet](./recipes/potatoOmelette/)
 - [Lasagna](./recipes/lasagna/)
+- [Panuozzo](./recipes/panuozzo/)
 
 ## Chicken
 - [Almond Schnitzel](./recipes/almondChicken/)
