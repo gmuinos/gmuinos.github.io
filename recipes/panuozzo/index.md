@@ -1,5 +1,7 @@
 It's possible to make a bunch of dough and freeze them.
 
+The ingredients below are classic, but any leftovers are good too.
+
 ## Ingredients
 - One pizza dough
 - Mozzarella
