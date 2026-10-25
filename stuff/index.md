@@ -2,7 +2,6 @@
 - Mojo Rojo
 - Mojo Verde
 - Papas Arrugadas
-- Panuozzo
 - Potaje de verduras
 - Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
 - Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
@@ -28,6 +27,11 @@
 - Other way of making roasted chicken: https://youtu.be/Wdh9w6Mtjag
 - Fish confit: https://youtu.be/J32bkjlcyW4
 - Poutine with cheddar
+- These are a mix of links to recipes.
+- [Oven-roasted chicken](https://youtu.be/0Mss7hxdqvQ)
+- [Meatballs](https://www.seriouseats.com/italian-american-beef-pork-meatballs-red-tomato-sauce-recipe)
+- [Pandoro](https://www.daringgourmet.com/pandoro-recipe/)
+
 
 ## Tips
 - Use the black round thing for the chopping
