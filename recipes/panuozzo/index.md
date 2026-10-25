@@ -1,9 +1,9 @@
-It's possible to make a bunch of dough and freeze them.
+It's possible to make a bunch of dough, bake them in the oven, and freeze them.
 
-The ingredients below are classic, but any leftovers are good too.
+The ingredients below are classic, but any thing that can go in a sandwich is good too.
 
 ## Ingredients
-- One pizza dough
+- Pizza dough
 - Mozzarella
 - Eggs
 - Pesto
