@@ -27,7 +27,6 @@
 - Other way of making roasted chicken: https://youtu.be/Wdh9w6Mtjag
 - Fish confit: https://youtu.be/J32bkjlcyW4
 - Poutine with cheddar
-- These are a mix of links to recipes.
 - [Oven-roasted chicken](https://youtu.be/0Mss7hxdqvQ)
 - [Meatballs](https://www.seriouseats.com/italian-american-beef-pork-meatballs-red-tomato-sauce-recipe)
 - [Pandoro](https://www.daringgourmet.com/pandoro-recipe/)
