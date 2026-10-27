@@ -1,0 +1,1 @@
+- Cut each potato into flat 
