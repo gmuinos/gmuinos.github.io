@@ -18,7 +18,7 @@ By volume
 
 ## Steps
 - Make the roux
-- Add the at around 12 parts
+- Add the stock at around 12 parts
 - Bring to boil and check consistency
 - Add more stock if needed
 
