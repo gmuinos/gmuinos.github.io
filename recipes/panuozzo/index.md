@@ -1,6 +1,6 @@
 It's possible to make a bunch of dough, bake them in the oven, and freeze them.
 
-The ingredients below are classic, but any thing that can go in a sandwich is good too.
+The ingredients below are classic, but anything that can go in a sandwich is good too.
 
 ## Ingredients
 - Pizza dough
