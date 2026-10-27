@@ -17,7 +17,7 @@
 
 ## Steps
 - Chop cauliflower
-- Roast it with the oil until quite brown
+- Sautee it with the oil until quite brown
 - Slice onion
 - On a sauce pan sautee the onion
 - Slice garlic
