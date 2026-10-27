@@ -34,7 +34,7 @@
 - [Crunchy Chickpea Caesar Salad](./recipes/crunchyCaesar/)
 
 ## Sauces
-- [Roux](./recipes/roux/)
+- [Roux and Velouté](./recipes/roux/)
 - [Cauliflower Puree](./recipes/cauliflowerPuree/)
 
 # Snacks
