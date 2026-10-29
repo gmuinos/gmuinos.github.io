@@ -8,7 +8,7 @@
 - Thyme
 
 ## Steps
-- Cut each potato into two flat sides to create a flat shape
+- Cut each potato into two flat sides to create a flat shape of around two and a half centimeters high
 - Warm up a skillet that can go into an oven into medium to medium-high heat with some neutral oil
 - Add the potatoes
 - Preheat the oven to 180 degrees
