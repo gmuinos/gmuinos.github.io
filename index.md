@@ -27,6 +27,7 @@
 ## Bread, rice, potatoes
 - [Grandma Rice](./recipes/rice/)
 - [Oven-roasted Potatoes](./recipes/roastedPotatoes/)
+- [Fondant Potatoes](./recipes/fondantPotatoes)
 - [Baguette](./recipes/baguette/)
 
 ## Vegetables
