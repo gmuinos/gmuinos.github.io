@@ -18,7 +18,7 @@
 - Potaje de lentejas, rancho,...
 - Beeramisu
 - Elf's Nightingale (orange butter chicken)
-- Three stews: beef bourguignon, brasato al Barolo, and cocido
+- Four stews: beef bourguignon, brasato al Barolo, Guiness stew, and cocido
 - Empanadillas
 - Parsley Sauce: https://youtu.be/CP-xGIkgSAc
 - Broccoli Rabe and Sausage Pizza
