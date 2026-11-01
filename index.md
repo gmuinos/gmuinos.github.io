@@ -1,5 +1,5 @@
 # Main
-Something here
+
 ## Some main dishes
 - [Brasato al Barolo](./recipes/brasato/)
 - [Neapolitan Pizza](./recipes/pizza/)
@@ -36,7 +36,6 @@ Something here
 
 ## Sauces
 - [Roux and Velouté](./recipes/roux/)
-- [Pan Sauces](./recipes/panSauce/)
 - [Cauliflower Puree](./recipes/cauliflowerPuree/)
 
 # Snacks
