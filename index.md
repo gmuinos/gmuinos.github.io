@@ -36,6 +36,7 @@
 
 ## Sauces
 - [Roux and Velouté](./recipes/roux/)
+- [Pan Sauces](./recipes/panSauce/)
 - [Cauliflower Puree](./recipes/cauliflowerPuree/)
 
 # Snacks
