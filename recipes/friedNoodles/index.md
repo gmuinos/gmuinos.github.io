@@ -88,5 +88,7 @@ Two skillets are needed, one of them needs to be nonstick and one needs to stand
 - Add eggs
 - Add msg
 - Stir everything
+- Stop heat
+- Add sesame oil
 
 
