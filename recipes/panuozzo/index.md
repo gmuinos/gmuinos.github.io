@@ -1,3 +1,5 @@
+# Panuozzo
+
 It's possible to make a bunch of dough, bake them in the oven, and freeze them.
 
 The ingredients below are classic, but anything that can go in a sandwich is good too.
@@ -11,7 +13,7 @@ The ingredients below are classic, but anything that can go in a sandwich is goo
 - Some charcuterie
 - Optional: quick-pickeled vegetable
 
-### Steps
+## Steps
 - Prepare oven at max temperature with a pizza steel
 - Stretch pizza dough into a bagette-like shape
 - Prepare the ingredientes that wil go in the oven separated from the ones that will be added cold
