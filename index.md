@@ -1,28 +1,31 @@
-# Main
+# Main Dishes
 
-## Some main dishes
+## Stews
 - [Brasato al Barolo](./recipes/brasato/)
-- [Neapolitan Pizza](./recipes/pizza/)
-- [Ravioli](./recipes/ravioli/)
-- [Potato Omelet](./recipes/potatoOmelette/)
-- [Lasagna](./recipes/lasagna/)
-- [Panuozzo](./recipes/panuozzo/)
-
-## Chicken
-- [Almond Schnitzel](./recipes/almondChicken/)
-- [Lemon Butter Chicken](./recipes/lemonChicken/)
-- [Orange Chicken](./recipes/orangeChicken/)
+- [Guinness Stew](./recipes/guinnessStew/)
 
 ## Fried rice and fried noodles
 - [Fried Rice](./recipes/friedRice/)
 - [Fried Noodles](./recipes/friedNoodles/)
 - [Green Curry Fried Rice (ข้าวผัดแกงเขียวหวาน)](./recipes/greenCurryFriedRice/)
 
+## Chicken
+- [Almond Schnitzel](./recipes/almondChicken/)
+- [Lemon Butter Chicken](./recipes/lemonChicken/)
+- [Orange Chicken](./recipes/orangeChicken/)
+
 ## Fish
 - [Fish with Couscous](./recipes/fishCouscous/)
 - [Cider Mussels](./recipes/mussels/)
 
-# Side dishes
+## More main dishes
+- [Neapolitan Pizza](./recipes/pizza/)
+- [Ravioli](./recipes/ravioli/)
+- [Potato Omelet](./recipes/potatoOmelette/)
+- [Lasagna](./recipes/lasagna/)
+- [Panuozzo](./recipes/panuozzo/)
+
+# Side Dishes
 
 ## Bread, rice, potatoes
 - [Grandma Rice](./recipes/rice/)
@@ -49,6 +52,6 @@
 - [Black Velvet](./recipes/blackVelvet/)
 - [Bee's Knees](./recipes/beesKnees/)
 
-# Other content
+# Other Content
 - [Cellar wine and beer](./stuff/agingDrinks/)
 - [Pizza calculator link](https://www.stadlermade.com/pizza-calculator/)
