@@ -1,19 +1,16 @@
-Ingredients (Serves 4–5)
+# Guinness Stew
 
-Beef chuck — 1.2 kg
-Guinness Original — 440 ml
-Onion — 275 g, cleaned and thinly sliced
-Carrots — 225 g, large chunks
-Parsnips — 200 g, large chunks
-Worcestershire sauce — 20 ml
-Unsalted chicken stock — optional, as needed
-Bay leaf — 1 (optional)
-Pitted prune — 1 small, approximately 10 g (optional)
-Neutral high-smoke-point oil — as needed
-Salt and black pepper — to taste
+## Ingredients
+- Beef
+- Guinness
+- Onion
+- Carrots
+- Parsnips
+- Worcestershire sauce
+- Bay leaf
+- High-smoke-point oil, salt, and pepper
 
-Method
-
+## Steps
 - Warm up a dutch oven
 - Cut beef into large pieces
 - Sear well the beef
@@ -25,15 +22,14 @@ Method
 - Chop the onions
 - Remove the carrot and parsnips.
 - Brown the onions.
-
-4. Build the seasoning. Add the Worcestershire sauce and stir briefly. Its savoury, acidic and dark sweet notes help complement the Guinness.
-
-5. Deglaze with Guinness. Add some of the Guinness, scraping the bottom of the casserole to dissolve the remaining fond.
-
-6.**Assemble the braise.* Return the beef and its resting juices to the pot. Add the remaining Guinness and, if needed, enough unsalted chicken stock to achieve the desired liquid level. Add the optional bay leaf and prune.
-
-7. Braise. Bring to a gentle simmer, cover and cook in a 140°C oven for 2 hours.
-
-8. Return the vegetables. Add the reserved carrots and parsnips. Bring the pot back to a boil. Return to the oven for another 30–40 minutes, until the beef is tender and the vegetables are cooked. The lid can be removed during this stage if a little reduction is needed.
-
-9. Finish the gravy. Taste and adjust the seasoning. If the gravy needs further reduction, remove some to a separate saucepan and reduce it independently so the beef and vegetables do not overcook.
+- Preheat the oven to 140°C
+- Add Worcestershire sauce to the pot.
+- Deglaze with around half the Guinness.
+- Return the beef and its juices to the pot.
+- Add enough Guinness to almost cover everything.
+- Add a bay leaf.
+- Bring to a simmer, cover and place in the oven for two hours.
+- Take the pot onto the stove, add the carrots and parsnips, and bring everything to a boil again.
+- Place in the oven for 30 minutes without the lid.
+- Taste the liquid and adjust the seasoning.
+- If it needs more reduction, the whole stew can be passed through a sieve and the liquid reduced separately; or added cornstarch; or preparing a roux separately.
