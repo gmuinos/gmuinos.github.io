@@ -1,7 +1,6 @@
 ## WORK IN PROGRESS
 
 ## Ingredients
-
 - Protein
 - soy sauce
 - vegetable oil
@@ -12,6 +11,8 @@
 - vegetables
 - rice
 - eggs
+- kaffir lime leaves
+- Thai basil
 - MSG
 
 ## Steps
