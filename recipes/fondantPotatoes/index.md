@@ -8,6 +8,7 @@
 - Onion
 - Garlic
 - Thyme
+- Cornstarch, optional
 
 ## Steps
 - Cut each potato into two flat sides to create a flat shape of around two and a half centimeters high
@@ -26,6 +27,7 @@
 - Wait a few minutes and repeat. They should take around 35 minutes.
 - When the potatoes are done, take them out of the oven, plate the potatoes.
 - For the sauce, either:
-  - Pass the liquid throught a sieve and reduce the sauce,
+  - Mix some cornstarch with cold water, add it to the pan, bring it to a boil briefly, or
+  - pass the liquid throught a sieve and reduce the sauce,
   - just reduce and serve with the garlic and onion, or
   - blend everything adding some butter while blending.
