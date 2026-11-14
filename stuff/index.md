@@ -1,6 +1,4 @@
 ## Recipes that just need writing
-- Mojo Rojo
-- Mojo Verde
 - Papas Arrugadas
 - Potaje de verduras
 - Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
