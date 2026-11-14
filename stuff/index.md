@@ -1,7 +1,7 @@
 ## Recipes that just need writing
-- Potaje de verduras
 - Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
 - Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
+- Potaje de verduras
 - There is an empanada recipe halfway there
 - Frittata
 - Schnitzel
@@ -34,8 +34,12 @@
 - Star anise in onions
 - When reverse-searing, cut inmediatelly.
 - Bakers percentage is a ratio.
-- Vegetables that grow above the ground, directly on salted boiling water. Vegetables that grow unthe the ground, on salted cold water.
+- Vegetables that grow above the ground, directly on salted boiling water. Vegetables that grow under the ground, on salted cold water.
 - Soak garlic in water for 30 minutes for easy peeling
+
+Vegetables that grow above the ground, directly on salted boiling water. An equation that says that $e^x=f(x)=\frac{1}{x}$ Vegetables that grow under the ground, on salted cold water.
+
+And then Vegetables that grow under the ground, on salted cold water.Vegetables that grow under the ground, on salted cold water.Vegetables that grow under the ground, on salted cold water as long as $$e^x=f(x)=\frac{1}{x}$$ and the stuff continues here.
 
 ## More stuff
 - Candeal flour
