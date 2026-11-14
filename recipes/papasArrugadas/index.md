@@ -1,6 +1,6 @@
 # Papas Arrugadas
 
-## Ingredientes:
+## Ingredients:
 - Small potatoes
 - Salt, around 250gr per kilo of potatoes
 - Water
