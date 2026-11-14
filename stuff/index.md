@@ -37,7 +37,7 @@
 - Vegetables that grow above the ground, directly on salted boiling water. Vegetables that grow under the ground, on salted cold water.
 - Soak garlic in water for 30 minutes for easy peeling
 
-Vegetables that grow above the ground, directly on salted boiling water. An equation that says that $`e^x=f(x)=\frac{1}{x}`$ Vegetables that grow under the ground, on salted cold water.
+Vegetables that grow above the ground, directly on salted boiling water. An equation that says thates that grow under the ground, on salted cold water.
 <script>
   window.MathJax = {
     tex: {
@@ -47,7 +47,9 @@ Vegetables that grow above the ground, directly on salted boiling water. An equa
   };
 </script>
 <script id="MathJax-script" async src="https://jsdelivr.net"></script>
-And then Vegetables that grow under the ground, on salted cold water.Vegetables that grow under the ground, on salted cold water.Vegetables that grow under the ground, on salted cold water as long as $`e^x=f(x)=\frac{1}{x}`$ and the stuff continues here.
+
+
+And then Vegetables that grow under the ground, on salted cold water.Vegetables $$y_i=b_0+b_1x$$ that grow under the ground, on salted cold water.Vegetables that grow under the ground, on salted cold water as long as $e^x=f(x)=\frac{1}{x}$ and the stuff continues here.
 
 ## More stuff
 - Candeal flour
