@@ -40,8 +40,9 @@
 - [Crunchy Chickpea Caesar Salad](./recipes/crunchyCaesar/)
 
 ## Sauces
-- [Roux and Velouté](./recipes/roux/)
 - [Pan Sauces](./recipes/panSauce)
+- [Mojos](./recipes/mojos/)
+- [Roux and Velouté](./recipes/roux/)
 - [Cauliflower Puree](./recipes/cauliflowerPuree/)
 
 # Snacks
