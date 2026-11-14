@@ -41,7 +41,7 @@
 
 ## Sauces
 - [Pan Sauces](./recipes/panSauce)
-- [Mojos](./recipes/mojos/)
+- [Mojo Verde y Rojo](./recipes/mojos/)
 - [Roux and Velouté](./recipes/roux/)
 - [Cauliflower Puree](./recipes/cauliflowerPuree/)
 
