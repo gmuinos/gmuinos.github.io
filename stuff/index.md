@@ -12,16 +12,16 @@
 - Oeufs en cocotte: eggs with cammebert, chives, spinach, cream cheese, and foccaccia stiks with tomato jam.
 - Churros de Pescado
 - Rosquetes
-- Potaje de lentejas, rancho,...
+- [Rancho](https://youtu.be/e9dG01-cLqY)
 - Beeramisu
 - Elf's Nightingale (orange butter chicken)
 - Four stews: beef bourguignon, brasato al Barolo, Guiness stew, and cocido
 - Empanadillas
-- Parsley Sauce: https://youtu.be/CP-xGIkgSAc
+- [Parsley Sauce](https://youtu.be/CP-xGIkgSAc)
 - Broccoli Rabe and Sausage Pizza
-- Faux day-old rice: https://youtu.be/WO67yMWdV-U
-- Fish tips. Test Kitchen: https://youtu.be/AEL9nuI5efo
-- Other way of making roasted chicken: https://youtu.be/Wdh9w6Mtjag
+- [Faux day-old rice](https://youtu.be/WO67yMWdV-U)
+- [Fish tips. Test Kitchen](https://youtu.be/AEL9nuI5efo)
+- [Other way of making roasted chicken](https://youtu.be/Wdh9w6Mtjag)
 - Poutine with cheddar
 - [Oven-roasted chicken](https://youtu.be/0Mss7hxdqvQ)
 - [Meatballs](https://www.seriouseats.com/italian-american-beef-pork-meatballs-red-tomato-sauce-recipe)
