@@ -25,7 +25,6 @@
 - Faux day-old rice: https://youtu.be/WO67yMWdV-U
 - Fish tips. Test Kitchen: https://youtu.be/AEL9nuI5efo
 - Other way of making roasted chicken: https://youtu.be/Wdh9w6Mtjag
-- Fish confit: https://youtu.be/J32bkjlcyW4
 - Poutine with cheddar
 - [Oven-roasted chicken](https://youtu.be/0Mss7hxdqvQ)
 - [Meatballs](https://www.seriouseats.com/italian-american-beef-pork-meatballs-red-tomato-sauce-recipe)
