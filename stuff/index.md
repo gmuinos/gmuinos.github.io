@@ -27,7 +27,6 @@
 - [Meatballs](https://www.seriouseats.com/italian-american-beef-pork-meatballs-red-tomato-sauce-recipe)
 - [Pandoro](https://www.daringgourmet.com/pandoro-recipe/)
 
-
 ## Tips
 - Use the black round thing for the chopping
 - Once the Leidenfrost effect is reached, reduce the heat to low. Then, add oil and the ingredients.
@@ -36,20 +35,6 @@
 - Bakers percentage is a ratio.
 - Vegetables that grow above the ground, directly on salted boiling water. Vegetables that grow under the ground, on salted cold water.
 - Soak garlic in water for 30 minutes for easy peeling
-
-Vegetables that grow above the ground, directly on salted boiling water. An equation that says thates that grow under the ground, on salted cold water.
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']]
-    }
-  };
-</script>
-<script id="MathJax-script" async src="https://jsdelivr.net"></script>
-
-
-And then Vegetables that grow under the ground, on salted cold water.Vegetables $$y_i=b_0+b_1x$$ that grow under the ground, on salted cold water.Vegetables that grow under the ground, on salted cold water as long as $e^x=f(x)=\frac{1}{x}$ and the stuff continues here.
 
 ## More stuff
 - Candeal flour
