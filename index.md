@@ -19,7 +19,6 @@
 - [Cider Mussels](./recipes/mussels/)
 - [Fish with Couscous](./recipes/fishCouscous/)
 
-
 ## More main dishes
 - [Neapolitan Pizza](./recipes/pizza/)
 - [Ravioli](./recipes/ravioli/)
@@ -35,7 +34,8 @@
 - [Fondant Potatoes](./recipes/fondantPotatoes)
 - [Baguette](./recipes/baguette/)
 
-## Vegetables
+## Salads and Vegetables
+- [Caprese Salad](./recipes/capreseSalad/)
 - [Quick-pickled Vegetables](./recipes/quickPickle/)
 - [Crunchy Chickpea Caesar Salad](./recipes/crunchyCaesar/)
 
