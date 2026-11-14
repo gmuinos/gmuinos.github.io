@@ -32,6 +32,7 @@
 - [Grandma Rice](./recipes/rice/)
 - [Oven-roasted Potatoes](./recipes/roastedPotatoes/)
 - [Fondant Potatoes](./recipes/fondantPotatoes)
+- [Papas Arrugadas](./recipes/papasArrugadas/)
 - [Baguette](./recipes/baguette/)
 
 ## Salads and Vegetables
