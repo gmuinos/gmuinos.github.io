@@ -1,5 +1,4 @@
 ## Recipes that just need writing
-- Papas Arrugadas
 - Potaje de verduras
 - Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef stock.
 - Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
