@@ -42,6 +42,8 @@
 - Make a sour stout such as - Nevel, Obscuur, which was made with kwets (Prunus domestica ssp. domestica) 
 - alt + 0160
 - https://www.baktotaal.nl/
+- Adega Cooperativa de Favaios
+- Antonio Camillo - Morellino di Scansano
 
 
 
