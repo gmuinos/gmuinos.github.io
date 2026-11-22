@@ -4,10 +4,12 @@ Papas arrugadas con mojo
 
 Brasato al Barolo
 
-Gluehwein
+Glühwein
 
 Vermú
 
 Ravioli
 
 Cauliflower purée
+
+Potato omelet 
