@@ -1,12 +1,18 @@
 # Christmas Eve
 
-Papas arrugadas con mojo
-
-Brasato al Barolo
-
 Glühwein
 
 Vermú
+
+Papas arrugadas con mojo
+Fresh wine
+
+Poached fish
+Thick white
+
+Brasato al Barolo
+Fondant potapoes
+Barolo
 
 Ravioli
 
@@ -17,9 +23,5 @@ Cauliflower purée
 Potato omelet
 
 Bread
-
-Fondant potapoes
-
-Poached fish
 
 Caprese salad
