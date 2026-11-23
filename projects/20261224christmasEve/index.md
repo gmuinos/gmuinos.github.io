@@ -2,26 +2,32 @@
 
 Glühwein
 
-Vermú
-
 Papas arrugadas con mojo
 Fresh wine
+
+Pizza 
+Chianti
 
 Poached fish
 Thick white
 
-Brasato al Barolo
-Fondant potapoes
-Barolo
+Potato omelette
+Oaky wine
+
+
+
+---
 
 Ravioli
 
-Pizza
-
 Cauliflower purée
-
-Potato omelet
 
 Bread
 
 Caprese salad
+
+Vermouth 
+
+Brasato al Barolo
+Fondant potapoes
+Barolo
