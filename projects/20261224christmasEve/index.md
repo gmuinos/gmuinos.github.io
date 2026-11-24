@@ -2,8 +2,8 @@
 
 Glühwein
 
-Papas arrugadas con mojo
-Fresh wine
+Cheese and charcuterie
+One white and one red
 
 Pizza 
 Chianti
@@ -31,4 +31,7 @@ Vermouth
 
 Poached fish
 Thick white
+
+Papas arrugadas con mojo
+Fresh wine
 
