@@ -15,8 +15,9 @@ Brasato al Barolo
 Fondant potapoes
 Barolo
 
-
 ---
+
+Gran Reserva Rioja
 
 Ravioli
 
