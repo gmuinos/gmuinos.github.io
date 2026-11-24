@@ -5,14 +5,11 @@ Glühwein
 Papas arrugadas con mojo
 Fresh wine
 
-Potato omelette
-Oaky wine
-
 Pizza 
 Chianti
 
-Poached fish
-Thick white
+Potato omelette
+Oaky wine
 
 Brasato al Barolo
 Fondant potapoes
@@ -30,4 +27,7 @@ Bread
 Caprese salad
 
 Vermouth 
+
+Poached fish
+Thick white
 
